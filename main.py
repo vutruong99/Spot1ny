@@ -24,10 +24,9 @@ def get_tracks(results, data):
                 ,track["popularity"], track["duration_ms"],track["album"]["images"][0]["url"]])
         
 first_user_id = input("Enter the user id for the first user ")
+first_user_playlists = sp.user_playlists(first_user_id)
 second_user_id = input("Enter the user id for the second user ")
-
-first_user_playlists = sp.user_playlists(first_user_data)
-second_user_playlists = sp.user_playlists(second_user_data)
+second_user_playlists = sp.user_playlists(second_user_id)
 
 first_user_playlists_ids = []
 second_user_playlists_id = []
@@ -84,6 +83,5 @@ with open(second_user_file, 'w', encoding="utf-8", newline='') as csvfile:
     csvwriter.writerow(headers) 
     csvwriter.writerows(second_user_data)
 
-
-
+print("Finishes loading data")
 

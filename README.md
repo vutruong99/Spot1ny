@@ -15,3 +15,17 @@ Libraries used:
 ## Future goals:
 * Build a web interface to authenticate users
 * Analyze chord progressions of the songs? 
+
+## Usage:
+* Create an application on [Spotify Devloper Dashboard](https://developer.spotify.com/dashboard/login)
+* Get Client ID, Client Secret and Redirect URI
+* Replace those credentials in the blanks in the two Python files
+* Run two crawlers to spawn two csv files:
+```bash
+python main.py
+```
+
+```bash
+python userInfo.py
+```
+* Run the notebook in Jupyter Notebook or other kernels

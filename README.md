@@ -8,13 +8,11 @@ Libraries used:
 * Spotipy
 * Pandas
 * Matplotlib
+* Seaborn
 
 ## Working on:
 * Data analysis and visualization
-
-## Future goals:
-* Build a web interface to authenticate users
-* Analyze chord progressions of the songs? 
+* Recommendation sysstem based on audio features and genres 
 
 ## Usage:
 * Create an application on [Spotify Devloper Dashboard](https://developer.spotify.com/dashboard/login)

@@ -9,6 +9,7 @@ Libraries used:
 * Pandas
 * Matplotlib
 * Seaborn
+* scikit-learn
 
 ## Working on:
 * Data analysis and visualization

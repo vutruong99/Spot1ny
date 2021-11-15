@@ -1,0 +1,361 @@
+id,song,artist,album,popularity,duration,img_url,genres
+4BHzQ9C00ceJxfG16AlNWb,Send My Love (To Your New Lover),Adele,25,2,223080,https://i.scdn.co/image/ab67616d0000b2734c3bbcff5e7248e415548f12,"['british soul', 'pop', 'pop soul', 'uk pop']"
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,Kid Krow,87,198040,https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43,"['bedroom pop', 'electropop', 'indie pop', 'pop']"
+0k6LV1ohcK2hlNPwu1nVw9,Cold Heart - Acoustic,Elton John,Cold Heart (Acoustic),66,195373,https://i.scdn.co/image/ab67616d0000b273b4d0d46e3a2e317576648b12,"['glam rock', 'mellow gold', 'piano rock']"
+5JCoSi02qi3jJeHdZXMmR8,favorite crime,Olivia Rodrigo,SOUR,87,152666,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,['pop']
+3WbHsfnKTIpte7B14whqjF,the boy,lullaboy,the boy,54,216530,https://i.scdn.co/image/ab67616d0000b273e608ce5ce2ed29712f431143,['chill r&b']
+2X3rwsb6rl9keHNNiEVTVf,bon iver - acoustic,mxmtoon,dusk (the edits),39,201733,https://i.scdn.co/image/ab67616d0000b273189ea64f9d71d8933719a035,"['alt z', 'bedroom pop', 'indie pop', 'pop', 'social media pop']"
+64o1r6z5k2HmTglC2D4IKm,Mariposa - Acoustic,Peach Tree Rascals,Mariposa (Acoustic),60,216612,https://i.scdn.co/image/ab67616d0000b273c8935a25750b1ba21f49e720,"['alternative r&b', 'chill r&b', 'indie r&b', 'pop']"
+0742PcMPo2Akmo4vHC29VZ,this is how you fall in love,Jeremy Zucker,this is how you fall in love,12,174586,https://i.scdn.co/image/ab67616d0000b273dccb079c492cf99e02e3255b,"['electropop', 'pop']"
+0YBNpbrmpZdFRT0NFqii5C,Fly Me to the Moon,The Macarons Project,Fly Me to the Moon,24,155402,https://i.scdn.co/image/ab67616d0000b27389c2066e06f2f4b738149b53,['indonesian lo-fi pop']
+1lhm29o3syw122xynSKaAK,Love Me Like That,Sam Kim,"Nevertheless, (Original Television Soundtrack, Pt. 6)",81,211363,https://i.scdn.co/image/ab67616d0000b273c382d7b9b74ce02cab98bcb4,"['chill r&b', 'k-pop', 'korean pop', 'korean r&b']"
+5WkCcSa78lM1Ym4LXzJUiN,La La Lost You - Acoustic Version,NIKI,NIKI Acoustic Sessions: Head In The Clouds II,71,208510,https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee,"['chill r&b', 'indonesian r&b', 'pop']"
+5a6pdCHlWS2ekOOQ70QnAr,July,Noah Cyrus,July,2,156106,https://i.scdn.co/image/ab67616d0000b2731c897ee628349a905b217068,"['alt z', 'dance pop', 'pop', 'post-teen pop']"
+1d9Ve8caYURgqYEVuEHMww,Cry Over Boys,Alexander 23,"Oh No, Not Again! - EP",65,170812,https://i.scdn.co/image/ab67616d0000b273b5b0a50f80e21a5593c5aa4d,"['alt z', 'pop']"
+5AXyf6LS4D7QYp3JAJKW7F,Somewhere Only We Know,Reneé Dominique,Somewhere Only We Know,56,229669,https://i.scdn.co/image/ab67616d0000b273827c31e9a694647e0c803107,['pinoy indie']
+4oyX53bkiEB9seveixcTX8,Say So - Acoustic,Le Vitates,Say So (Acoustic),48,230929,https://i.scdn.co/image/ab67616d0000b27392fa346963df1ccae157150b,"['acoustic chill', 'viral pop']"
+6nhc3daOpKaZBRj2ZFWfc7,My Universe - Acoustic Version,Coldplay,My Universe,72,223268,https://i.scdn.co/image/ab67616d0000b273fb7fdc6524b1224cc04985f5,"['permanent wave', 'pop']"
+37MNmtxcQicC9a0vtL1fEg,Kiss Me - Live Acoustic,The Macarons Project,Kiss Me (Live Acoustic),10,206000,https://i.scdn.co/image/ab67616d0000b273a5c34664329215cfe8edcea0,['indonesian lo-fi pop']
+6BeODAFUXgrscucnq8xDAs,someone like u,lullaboy,someone like u,68,232000,https://i.scdn.co/image/ab67616d0000b27313137ef00d668a76563ffdb6,['chill r&b']
+5fnFcby5yxUodS7loPSufH,wish you were gay - acoustic,The Mayries,wish you were gay (acoustic),42,219931,https://i.scdn.co/image/ab67616d0000b27355d55df04d0e02112226e49c,"['acoustic cover', 'acoustic pop', 'neo mellow', 'viral pop']"
+3MthJpM1IEYp2ulZe00LvP,Shouldn't Matter but It Does,John Mayer,Sob Rock,68,236733,https://i.scdn.co/image/ab67616d0000b273779063301154e835a91a35e0,"['neo mellow', 'pop rock', 'singer-songwriter']"
+4FpKnsvxF9rC7ObQeUWTsw,Telepatía (Acústico),Angélika,Telepatía (Acústico),45,193149,https://i.scdn.co/image/ab67616d0000b27336f95b1b256cd2537076f840,[]
+7MwnbWnZCBg1iK7uAreNhm,Fallin’ (Adrenaline) - Acoustic,Why Don't We,Fallin’ (Adrenaline) [Acoustic],0,215724,https://i.scdn.co/image/ab67616d0000b273dd8beb8ba9f419092ff5a682,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'teen pop']"
+4DDD2P6dJurAgk3IYWqK3p,How Deep Is Your Love,the bird and the bee,Please Clap Your Hands,55,204653,https://i.scdn.co/image/ab67616d0000b273215a094a14d27b12a3b78ddd,"['indie pop', 'la indie']"
+0iZgToTIPAHO7uM0LVb3yr,HEARTBREAK ANNIVERSARY,Joseph Vincent,HEARTBREAK ANNIVERSARY,56,161574,https://i.scdn.co/image/ab67616d0000b27350158c4920ac8053d628a29d,"['pop', 'viral pop']"
+4GTdwP4Sxioube7ySds1fp,I'm With You - Acoustic Version,The Macarons Project,I'm With You (Acoustic Version),10,216500,https://i.scdn.co/image/ab67616d0000b273c17ef6eeff3659be9791ea3e,['indonesian lo-fi pop']
+4ensio3acJ17PegjBcmXVg,17 - Acoustic,Pink Sweat$,17 (Acoustic),57,169276,https://i.scdn.co/image/ab67616d0000b273cedcdd698df015d64127d6b3,"['bedroom soul', 'chill r&b', 'pop']"
+2EDYchd8hhwAOWKGQxJoro,Chasing Cars,Sleeping At Last,Chasing Cars,56,240426,https://i.scdn.co/image/ab67616d0000b273fddfa3c4fb3530903a69c8ff,"['ambient worship', 'chamber pop', 'pop', 'pop rock']"
+1YnLthg0HOs8YTzgN5hVh2,God Only Knows,Kina Grannis,God Only Knows,58,136542,https://i.scdn.co/image/ab67616d0000b2732ae5d91095669b5012d14965,"['acoustic pop', 'neo mellow', 'pop rock', 'viral pop']"
+6KzL8s8GdRbd5Mal8yLz6R,Better Together,Us The Duo,Better Together,0,200706,https://i.scdn.co/image/ab67616d0000b27350d33dbc95fb2c8a81201733,"['folk-pop', 'indiecoustica', 'neo mellow', 'pop rock', 'viral pop']"
+2TitxRtrE8OLcAwcNucvmJ,Peaches - Acoustic,Adam Christopher,Peaches (Acoustic),8,190909,https://i.scdn.co/image/ab67616d0000b273ae8a3fceef4b7f5eec726692,"['acoustic cover', 'viral pop']"
+6obiiUPIIoZ5sePPv566lj,Put Your Records On - Acoustic,Tiffany Alvord,Put Your Records On (Acoustic),54,193947,https://i.scdn.co/image/ab67616d0000b27306e76fcb40cd92e81eef366e,"['channel pop', 'viral pop']"
+5mFrdpvoxokKCWp9uHE1ok,No Air,Lúc,No Air,53,199114,https://i.scdn.co/image/ab67616d0000b27341cf80dda5e4fd51e931ca33,['acoustic chill']
+3m958z5jHmEFKEVkboQ7JM,Don't Start Now - Acoustic,Highland Peak,Don't Start Now (Acoustic),42,200024,https://i.scdn.co/image/ab67616d0000b273e4d1ad00ed33a240b1f1e557,['acoustic chill']
+1Lom3Qqs0HUPxqnmRVumKQ,Somewhere Over The Rainbow,Leanne & Naara,Somewhere Over The Rainbow,57,153502,https://i.scdn.co/image/ab67616d0000b273ae6e514bc4550c0055b30e83,"['opm', 'pinoy indie']"
+5bTxvPSxViGxFfcawiCH0U,Here's Your Perfect - Acoustic,Jamie Miller,Here's Your Perfect (Acoustic),64,164669,https://i.scdn.co/image/ab67616d0000b2736579672ab91817fb63143ef5,['pop soul']
+29CjkGjZnDVdJsfbRoNOGJ,Scared to Be Lonely - Acoustic Version,Martin Garrix,Scared to Be Lonely (Acoustic Version),62,257357,https://i.scdn.co/image/ab67616d0000b273944c32b68012ae1a4c5d89ed,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']"
+55qNvU28lXUg71TKMqiXmM,"Send My Love / Sit Still, Look Pretty (Acoustic Mashup)",Landon Austin,"Send My Love / Sit Still, Look Pretty (Acoustic Mashup)",59,202142,https://i.scdn.co/image/ab67616d0000b273eaef0c79cf0469304b4ef646,"['channel pop', 'indiecoustica', 'neo mellow', 'viral pop']"
+7F1CiKqrY44kh5cDqwHOnx,Love Is Gone - Acoustic,Dylan Matthew,Love Is Gone (Acoustic),80,176971,https://i.scdn.co/image/ab67616d0000b2733892a2a2c261629f34bb5536,['social media pop']
+4fKiuIavbsoTRZ6R7xuAyT,Lonely (with benny blanco) - Acoustic,Justin Bieber,Lonely (with benny blanco) [Main + Acoustic],56,155188,https://i.scdn.co/image/ab67616d0000b2731b2bb35006cc39e7215b6b24,"['canadian pop', 'pop']"
+6DPoEX6N7vzf9v2lIbxLt3,Marry Me,IamNeeta,Marry Me,54,207259,https://i.scdn.co/image/ab67616d0000b273c88e5142d4367e6dc8d70660,['malaysian pop']
+5KI4W93UARGnqsupVWv4tL,Stay with Me,Roy Kim,Roy Kim Live in Begin Again 2,2,175148,https://i.scdn.co/image/ab67616d0000b273d94bff5b7818fa6327a8d94f,"['k-pop', 'korean pop']"
+42eB4oaJ9vwsnxz1RFQUa0,Wonder - Acoustic,Shawn Mendes,Wonder,53,173652,https://i.scdn.co/image/ab67616d0000b273f32083c7dce70afe965e9800,"['canadian pop', 'dance pop', 'pop', 'viral pop']"
+04dqYNkXUPAVc9ZfHYicW6,Irreplaceable,Zak Manley,Irreplaceable,52,189634,https://i.scdn.co/image/ab67616d0000b2737977dab9d9b933a49ad5f814,['acoustic chill']
+3YkhNMK7YcdkUSKM5nM3ur,The Nights,Chlara,The Nights,62,222000,https://i.scdn.co/image/ab67616d0000b27311294ddabe85c8df49ebe990,"['opm', 'viral pop']"
+7kVssG465tU7XWgfrseOVS,death bed (coffee for your head) - Acoustic Mix,We Rabbitz,death bed (coffee for your head) [Acoustic Mix],45,148355,https://i.scdn.co/image/ab67616d0000b2731cc85206d7c200619b604034,[]
+0U8jEPi2k3UZqHK0jvzEe0,Let Me Down Slowly,Powell Sullivan,Let Me Down Slowly,45,160962,https://i.scdn.co/image/ab67616d0000b2733a4480189bae9ac1e2c87565,['acoustic chill']
+7iSool3PmS50F5St2bhmTU,Someone You Loved - Acoustic,Kurt Hugo Schneider,Someone You Loved (Acoustic),56,162272,https://i.scdn.co/image/ab67616d0000b273598dc892ce2c1284697dae25,"['pop', 'post-teen pop', 'viral pop']"
+7d3s1XpWyIHZq20ie2ghSp,Saturday Nights,Amanda Yang,Saturday Nights,50,178852,https://i.scdn.co/image/ab67616d0000b273e8b4bcd16b810d73d166598e,['viral pop']
+62rdJywT2r3EAi1KHtw1DA,Intentions,Halloran & Kate,Intentions,44,172272,https://i.scdn.co/image/ab67616d0000b273a4eaa18e8e396901f3456864,"['channel pop', 'viral pop']"
+7uuEfUMuPeQ7RlSWa0cES2,Can’t Help Falling in Love,Kina Grannis,Crazy Rich Asians (Original Motion Picture Soundtrack),0,201933,https://i.scdn.co/image/ab67616d0000b2732164996fa51e13991d9d6775,"['acoustic pop', 'neo mellow', 'pop rock', 'viral pop']"
+36cpdosXo6ckJaVusYVPle,Steal My Girl - Acoustic Version,One Direction,Steal My Girl (Acoustic Version),0,227120,https://i.scdn.co/image/ab67616d0000b273f6b44a561d3d9e904a8a14ec,"['boy band', 'pop', 'post-teen pop', 'talent show']"
+2HttK3TYhnumj8xWjKCYem,Best Part,Jayesslee,Best Part,56,280987,https://i.scdn.co/image/ab67616d0000b2736a40469e27a7b943803060af,['viral pop']
+6IH2Z54gYPLqgJtxZjX80i,Back To December - Acoustic,Taylor Swift,Speak Now (Deluxe Edition),54,292560,https://i.scdn.co/image/ab67616d0000b2732e4ec3175d848eca7b76b07f,['pop']
+5V1LGy5Cej68piazdCtmjZ,Yellow,Brittin Lane,Yellow,44,206452,https://i.scdn.co/image/ab67616d0000b2732c77959196df86643876aeb8,['pop folk']
+3uRyuXf29unDXTFNNXHrYl,drivers license - Acoustic,Sam Tsui,drivers license (Acoustic),50,235068,https://i.scdn.co/image/ab67616d0000b273098faccc7eb43d237f1e815c,"['post-teen pop', 'viral pop']"
+2wcseriGAqeodDazDXgmaq,You (with Marshmello & Vance Joy) - Acoustic,benny blanco,You (with Marshmello & Vance Joy) [Main + Acoustic],54,151673,https://i.scdn.co/image/ab67616d0000b2733a3504f973700d033fb1f3ec,"['electropop', 'pop', 'pop rap']"
+58DResRLMBKvXLdEmGFUqr,Break My Heart,Sara Farell,Break My Heart,46,176334,https://i.scdn.co/image/ab67616d0000b2738469219a51c9cfa55e842c18,"['acoustic cover', 'neo mellow', 'viral pop']"
+2vcDl2SLudnltyDEos3v6E,Beautiful Scars (Maximillian x Moira Dela Torre) - Acoustic,Maximillian,Beautiful Scars (Maximillian x Moira Dela Torre) [Acoustic],65,157779,https://i.scdn.co/image/ab67616d0000b273be335daf24f2b539593bbca4,['gen z singer-songwriter']
+7j2PE3jjtanGrsiOxR2HmK,Stuck with U - Acoustic,Jonah Baker,Stuck with U (Acoustic),1,188181,https://i.scdn.co/image/ab67616d0000b273ec5c91a1d46321547604bcf1,"['acoustic cover', 'viral pop']"
+4gmzxGRPIHwUVj0m0kZZwK,Because Of You,Gardiner Sisters,Because Of You,9,192000,https://i.scdn.co/image/ab67616d0000b2731a1a0df202bacb8f38c08f57,"['channel pop', 'lds youth', 'neo mellow', 'viral pop']"
+5EqlEvrylr3DNy3R11Kmrz,Youngblood - Acoustic,5 Seconds of Summer,Youngblood (Acoustic),57,220995,https://i.scdn.co/image/ab67616d0000b27386bd7bae90b0eb643e1bfe8c,"['boy band', 'dance pop', 'electropop', 'pop', 'post-teen pop']"
+7ssUVjT0Q6DgP20o9CESvU,Location,Joseph Vincent,Location,11,122062,https://i.scdn.co/image/ab67616d0000b27356939cae60299d41f052b126,"['pop', 'viral pop']"
+6YOOCjjIb0pBZXbJjYgUlP,Dancing With A Stranger,Sara Farell,Dancing With A Stranger,50,188735,https://i.scdn.co/image/ab67616d0000b2734a12b2d522697b9b3a8fbaa3,"['acoustic cover', 'neo mellow', 'viral pop']"
+4sAX65hbNtEC1lceCdGuMt,Stargazing,Isabella Celander,Stargazing,55,186334,https://i.scdn.co/image/ab67616d0000b2736ffb391ebade2e17aec5348d,['acoustic cover']
+5oV8bZaShr2d01FFMHBUPq,Iris,Kina Grannis,Iris,64,181136,https://i.scdn.co/image/ab67616d0000b2732699637932602df406dacadc,"['acoustic pop', 'neo mellow', 'pop rock', 'viral pop']"
+2AGen6RvvTNEhdNoyJEMvu,Watermelon Sugar - Acoustic,Jonah Baker,Watermelon Sugar (Acoustic),2,183093,https://i.scdn.co/image/ab67616d0000b273880111b6c191e3dde6d053f6,"['acoustic cover', 'viral pop']"
+3ISLwA96mtx13Wx7K1PPPk,Love Story,Tyler Ward,Love Story,58,232500,https://i.scdn.co/image/ab67616d0000b273320d04c187454ecde00ceb18,"['acoustic cover', 'channel pop', 'neo mellow', 'pop rock', 'viral pop']"
+13IMd84eJeHLdnLbzmIP2Q,Chasing Stars (feat. James Bay) [Stripped],Alesso,Chasing Stars (Stripped),60,164927,https://i.scdn.co/image/ab67616d0000b273933b3a7b2756018ce010a367,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'tropical house']"
+4SjPJxsczdVx2Wafi5mT0J,Rewrite the Stars,Joseph Vincent,Rewrite the Stars,17,200259,https://i.scdn.co/image/ab67616d0000b273c7a29f4b1815e2f895a6ef0b,"['pop', 'viral pop']"
+6TTHXR7QYOUNS2gyy2OVvg,Mood - Acoustic,Adam Christopher,Mood (Acoustic),5,161000,https://i.scdn.co/image/ab67616d0000b273d48ca3decc894b25948d171c,"['acoustic cover', 'viral pop']"
+2ZgUlizmH0VmOJzUwDchAf,How Do You Sleep? - Acoustic,Sam Smith,How Do You Sleep? (Acoustic),58,205590,https://i.scdn.co/image/ab67616d0000b273f53f3d46e3a6b2f1b17bed62,"['dance pop', 'pop', 'uk pop']"
+5H6Bc7oEWYuKrwb1pUZWhh,Closer,Ysabelle Cuevas,Closer,52,178666,https://i.scdn.co/image/ab67616d0000b273d8786338d3b73b117be0d112,"['acoustic opm', 'opm']"
+7vg5fesQdq5I7Z7XGdyJd5,Bad Liar,Roses & Frey,Bad Liar,53,226877,https://i.scdn.co/image/ab67616d0000b2734735650335cbe895d7d7a08b,"['acoustic cover', 'viral pop']"
+7rLokcIMP9p8fl0iROdVfC,ocean eyes - Recorded Live at Jungle City Studios,Alicia Keys,Spotify Singles,63,184548,https://i.scdn.co/image/ab67616d0000b2737792e47f4d41bf748001509f,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']"
+5mVDhLnXTHlBWJnMHXa9Qs,Halo,Lotte Kestner,The Bluebird of Happiness,58,269920,https://i.scdn.co/image/ab67616d0000b273e75f5314a2747868b72ff213,['indie psych-pop']
+1rv56nMI7nSrcyqpQqgSQb,Counting Stars,Amanda Yang,Counting Stars,47,218904,https://i.scdn.co/image/ab67616d0000b27394a8b5733af29fc0a64644af,['viral pop']
+4r4aTOJc7K3iUIU3MEPw6I,Be Alright,Lola Rhodes,Be Alright,58,180466,https://i.scdn.co/image/ab67616d0000b273ba67728d24be1e42e26c5209,['viral pop']
+0X9MxHR1rTkEHDjp95F2OO,Bad Liar,Anna Hamilton,Bad Liar,62,248448,https://i.scdn.co/image/ab67616d0000b2734c71534611add2fdd4ddb861,['acoustic chill']
+7wIYDzWW82O6Rc4vGuzjND,"I'm Not the Only One - Live from Spotify, London",Dua Lipa,Spotify Session,66,195840,https://i.scdn.co/image/ab67616d0000b27387adc6b4dafc57c8524d519a,"['dance pop', 'pop', 'uk pop']"
+45SbQo5bq8f0hNdB70IyFC,Save Your Tears,Boyce Avenue,Save Your Tears,57,216800,https://i.scdn.co/image/ab67616d0000b2731d4094d44254748df6e7f8a5,"['acoustic cover', 'neo mellow', 'pop', 'viral pop']"
+7cG68oOj0pZYoSVuP1Jzot,Latch - Acoustic,Sam Smith,In The Lonely Hour (Deluxe),0,223429,https://i.scdn.co/image/ab67616d0000b2737f7892ac82a75e73920b4827,"['dance pop', 'pop', 'uk pop']"
+2GzvzxXnyJ9l3obE4JskC2,I Like Me Better,Ysabelle Cuevas,Ysabelle,54,189673,https://i.scdn.co/image/ab67616d0000b27394b8feee25f100cfe8bc2d97,"['acoustic opm', 'opm']"
+09IZGpkbdHfJS4g33j6ALr,Sweet but Psycho - Acoustic,Parker Jenkins,Sweet but Psycho,45,188712,https://i.scdn.co/image/ab67616d0000b273d5dee04ef2fa40208b2c5f36,['acoustic chill']
+6k3wI7hjfJgerqdp7pxnAb,How to Save a Life,Shelby Park,How to Save a Life,48,265593,https://i.scdn.co/image/ab67616d0000b27384c4b8e1226f3243faa199dc,"['acoustic chill', 'viral pop']"
+1KalIfAR9lEpLWZZFdEfW4,Versace On The Floor,Joseph Vincent,Versace On The Floor,0,138201,https://i.scdn.co/image/ab67616d0000b273830dbbe83c869d2f969ff328,"['pop', 'viral pop']"
+0v1yN5C75um5Wx2WPtFl6k,Sunflower,Sara Farell,Sunflower,54,181897,https://i.scdn.co/image/ab67616d0000b2737a87cb6dd27af044a1b31ced,"['acoustic cover', 'neo mellow', 'viral pop']"
+3HOcPWc2LUUv5te756KfAH,Without Me,Brandon Chase,Without Me,50,202219,https://i.scdn.co/image/ab67616d0000b273d5ceb4eff1a58d864627dfdc,['acoustic chill']
+3PeoDI6IOsJ4cQBNTZEvfx,i'm so tired...,Bailey Jehl,i'm so tired...,39,190336,https://i.scdn.co/image/ab67616d0000b273bedf0fa7494c6d105b03030b,"['acoustic chill', 'viral pop']"
+2JcfyEmEWwdlgLKq44ALCU,Everybody Wants to Rule the World,Chlara,#acousticNOW5,50,218840,https://i.scdn.co/image/391b09569daceb7c979cd5c705ac68b7ae615535,"['opm', 'viral pop']"
+7xyNrmHN6EdUzMsR9ppThs,White Flag,Kina Grannis,White Flag,47,189333,https://i.scdn.co/image/ab67616d0000b273a192d51d71d1bb9077a182f1,"['acoustic pop', 'neo mellow', 'pop rock', 'viral pop']"
+4UcgeBIpIrPE0pyPULsnLL,三葉のテーマ,RADWIMPS,君の名は。,0,242786,https://i.scdn.co/image/ab67616d0000b273e0a0afae2b41c2f02bba8ee8,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+2XDLLEFWTuCRBZy21fRpcm,Yumetourou,RADWIMPS,Your Name.,0,129186,https://i.scdn.co/image/ab67616d0000b273222e0f6b49d70a71f9020292,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+7uyGWnfd6fcrFHtWxcM2ke,Nandemonaiya - Movie Version,RADWIMPS,Your Name.,0,344053,https://i.scdn.co/image/ab67616d0000b273222e0f6b49d70a71f9020292,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+0b4a1iklB8w8gsE38nzyEx,Sparkle - Movie Version,RADWIMPS,Your Name.,0,534120,https://i.scdn.co/image/ab67616d0000b273222e0f6b49d70a71f9020292,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+08NKLJpiQO9kGuq9oBCzDE,かたわれ時,RADWIMPS,君の名は。,0,167386,https://i.scdn.co/image/ab67616d0000b273301d4a2f8f0b3a016878469b,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+33UykFNSJfuai1uGbyftAv,Nandemonaiya - English ver.,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),0,342453,https://i.scdn.co/image/ab67616d0000b273c2b0e24a42cb61205346278e,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+3zbcJ3J2mAUNCvkcWscTYW,Dream lantern - English ver.,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),0,129186,https://i.scdn.co/image/ab67616d0000b273c2b0e24a42cb61205346278e,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+0fa7GXAdm5eOAupYglXCgT,Zenzenzense - English ver.,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),0,277360,https://i.scdn.co/image/ab67616d0000b273c2b0e24a42cb61205346278e,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+5xE9i9oPUBBK69FbI4Aq2H,Sparkle - English ver.,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),0,409386,https://i.scdn.co/image/ab67616d0000b273c2b0e24a42cb61205346278e,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+56pvqFKGXPjubh5eY6sOlv,Is There Still Anything That Love Can Do?,RADWIMPS,Weathering With You,57,414466,https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']"
+3yMaDbsslPABLr3VJ2eevO,"Gurenge (From ""Kimetsu no Yaiba"")",ShiroNeko,"Gurenge (From ""Kimetsu no Yaiba"")",2,236461,https://i.scdn.co/image/ab67616d0000b273685ac482315952a23e9b7eca,['otacore']
+30o2KEcg82vJJRC8Q6hSLL,"Kamado Tanjirou no Uta (From ""Demon Slayer: Kimetsu no Yaiba"")",Akano,"Kamado Tanjirou no Uta (From ""Demon Slayer: Kimetsu no Yaiba"")",18,147852,https://i.scdn.co/image/ab67616d0000b273de54c66bee4170c2c6f5fbc6,['otacore']
+4utS1n004l05JHwKyLHneC,"Grand Escape (From ""Weathering With You"")",Akano,"Grand Escape (From ""Weathering With You"")",3,80676,https://i.scdn.co/image/ab67616d0000b273db8b4c040cbf994324c1d16d,['otacore']
+2XpV9sHBexcNrz0Gyf3l18,ブルーバード,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,73,215706,https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e,"['anime', 'j-pop', 'j-poprock']"
+4emq7zryJgDYXmLSE051Tr,"Kamado Tanjiro no Uta (From ""Demon Slayer: Kimetsu no Yaiba"") [Piano Solo]",Fonzi M,"Kamado Tanjiro no Uta (From ""Demon Slayer: Kimetsu no Yaiba"") [Piano Solo]",8,386459,https://i.scdn.co/image/ab67616d0000b2739bf8ae82cb0daf410f57b2aa,"['anime piano', 'otacore']"
+1vAxW4D0wwfLaf12bkqlvB,orion,Kenshi Yonezu,BOOTLEG,52,281906,https://i.scdn.co/image/ab67616d0000b2739a067db34b24b7030cb87909,"['anime', 'j-pop']"
+1K5Nb0Bm5SDJ8rNI7ttMjf,星屑ビーナス,Aimer,Sleepless Nights,51,252226,https://i.scdn.co/image/ab67616d0000b2732f7909a5122563ceff66813e,"['anime', 'anime rock', 'j-pixie', 'j-pop', 'j-poprock']"
+37J6yKJ18QJdHR2RTRE55O,Best Friend,Kana Nishino,To Love,45,319760,https://i.scdn.co/image/ab67616d0000b273e5b16aba229e2c98ff24ef3d,"['j-idol', 'j-pop', 'japanese r&b']"
+21z1GxeHjfD3qkaF5CgCTO,シルエット,KANA-BOON,Time,74,240133,https://i.scdn.co/image/ab67616d0000b273aff92b4ab762a6439db4e922,"['anime', 'j-pop', 'j-poprock', 'j-rock']"
+4IouQaO9GkaHC7AtMErdSa,打上花火,Daoko,THANK YOU BLUE,64,289577,https://i.scdn.co/image/ab67616d0000b273e7f0b1cfcf4da8333f7644aa,"['anime', 'j-pixie', 'japanese electropop']"
+35KlorpQ6LQVVslvlcu1gN,Lemon,Kenshi Yonezu,Lemon,62,256105,https://i.scdn.co/image/ab67616d0000b273ae8ab64f32bde85afa89779d,"['anime', 'j-pop']"
+5P8lyudWE7HQxb4ludLbEm,恋愛サーキュレーション,物語シリーズ,Utamonogatari Special Edition (Original Soundtrack),69,255040,https://i.scdn.co/image/ab67616d0000b273730cc8eb459c92944233e891,['anime']
+31wFi94buu7x6KeWFobOaW,灰色と青 ( + 菅田将暉 ),Kenshi Yonezu,BOOTLEG,53,332186,https://i.scdn.co/image/ab67616d0000b2739a067db34b24b7030cb87909,"['anime', 'j-pop']"
+0apsgQi5yIbTMhm1wuvnQf,asphyxia,Cö Shu Nie,PURE,62,174893,https://i.scdn.co/image/ab67616d0000b273ade26fc245658d700650a912,"['anime', 'j-pixie', 'j-poprock', 'otacore']"
+488BRQDxWjQvasYBSnlf53,海の幽霊,Kenshi Yonezu,STRAY SHEEP,42,234466,https://i.scdn.co/image/ab67616d0000b273eb53782889e6f2e70a2634a3,"['anime', 'j-pop']"
+1gUAX2ImxDsB3YDcyxMXlB,カワキヲアメク,美波,カワキヲアメク,74,251933,https://i.scdn.co/image/ab67616d0000b273e192db03c0db78e0eead6114,['anime']
+0GtSbIUxOgrIcQSp10fuhx,Ref:rain,Aimer,Penny Rain,58,289986,https://i.scdn.co/image/ab67616d0000b27313a168c162349c838755fbf2,"['anime', 'anime rock', 'j-pixie', 'j-pop', 'j-poprock']"
+1oAzAS366ri5nMasp3ANLw,Night Sky Patrol of Tomorrow (アスノヨゾラ哨戒班),Raon Lee,Night Sky Patrol of Tomorrow (アスノヨゾラ哨戒班),6,180875,https://i.scdn.co/image/ab67616d0000b273882c728d09eb4ef882a4265d,['otacore']
+4HEo19dGKUa2L6uE8Uvqg5,永遠に光れ (Everlasting Shine),TOMORROW X TOGETHER,STILL DREAMING,54,193573,https://i.scdn.co/image/ab67616d0000b273eda56686558726ed1b49d9eb,"['k-pop', 'k-pop boy group']"
+0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),Post Malone,beerbongs & bentleys,84,218146,https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268,"['dfw rap', 'melodic rap', 'rap']"
+7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,Kendrick Lamar,DAMN.,83,177000,https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+0zLClc0emc6qUeV1p5nc99,No More Parties In LA,Kanye West,The Life Of Pablo,70,374413,https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4,"['chicago rap', 'rap']"
+40YcuQysJ0KlGQTeGUosTC,"Me, Myself & I",G-Eazy,When It's Dark Out,78,251466,https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d,"['indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']"
+4Ee90q64O8Vabdv3lWlJRQ,Out The Way,Vell,Gone Too Far,14,139650,https://i.scdn.co/image/ab67616d0000b27377cc3239f473623313782c29,[]
+2g7hpfKglKTJxrQxKUuugU,Grind Till I Die,G Eazy Ft. 5th Child and 3rd Shift,Grind Till I Die,22,161620,https://i.scdn.co/image/ab67616d0000b273b3f6110e36edd6fe0f25f876,[]
+0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,?,84,135090,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,"['emo rap', 'miami hip hop']"
+5nHofSNYy1zxXRwjLhZG0U,No Sad No Bad,KILLY,Surrender Your Soul,60,131500,https://i.scdn.co/image/ab67616d0000b2737f0bb63e21c5c86cef16aa19,"['canadian hip hop', 'canadian trap', 'melodic rap', 'toronto rap', 'trap', 'underground hip hop', 'vapor trap']"
+3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,?,85,166605,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,"['emo rap', 'miami hip hop']"
+4lgcfuSLnp5rraHNOi0nbh,Bang,G-Eazy,B-Sides,0,193979,https://i.scdn.co/image/ab67616d0000b273ed1dbfa98d7f76fdfed5df0d,"['indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']"
+6fTt0CH2t0mdeB2N9XFG5r,Panini,Lil Nas X,7 EP,68,114893,https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a,"['lgbtq+ hip hop', 'pop']"
+4ak7xjvBeBOcJGWFDX9w5n,Rodeo,Lil Nas X,7 EP,74,158706,https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a,"['lgbtq+ hip hop', 'pop']"
+3KkXRkHbMCARz0aVfEt68P,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),83,158040,https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f,"['dfw rap', 'melodic rap', 'rap']"
+2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,Drake,Scorpion,77,217925,https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+6nO3tr47nr2P7f3hXb8JIo,Champion (feat. Travis Scott),NAV,RECKLESS,74,195053,https://i.scdn.co/image/ab67616d0000b2730231368c38cf69a722ed1d0b,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']"
+5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),Drake,The Best In The World Pack,79,205426,https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+285pBltuF7vW8TeWk8hdRR,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,85,239835,https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4,"['chicago rap', 'melodic rap']"
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,ASTROWORLD,84,312820,https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3,"['rap', 'slap house']"
+1kBbgxAUc4HQv7cgIayIDH,Ransom,Lil Tecca,Ransom,1,131280,https://i.scdn.co/image/ab67616d0000b273422113b080aa8e2effae4fa2,"['melodic rap', 'rap', 'trap']"
+6MWtB6iiXyIwun0YzU6DFP,Wow.,Post Malone,Wow.,4,149520,https://i.scdn.co/image/ab67616d0000b27379eb2363cc79781b03d80b2e,"['dfw rap', 'melodic rap', 'rap']"
+7GX5flRQZVHRAGd6B4TmDO,XO Tour Llif3,Lil Uzi Vert,Luv Is Rage 2,84,182706,https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c,"['melodic rap', 'philly rap', 'rap', 'trap']"
+6DCZcSspjsKoFjzjrWoCdn,God's Plan,Drake,Scorpion,83,198973,https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+2CgOd0Lj5MuvOqzqdaAXtS,Shelter,Porter Robinson,Shelter,67,218964,https://i.scdn.co/image/ab67616d0000b2730b4df34612f851b639959f9a,"['complextro', 'edm', 'progressive electro house']"
+6gBFPUFcJLzWGx4lenP6h2,goosebumps,Travis Scott,Birds In The Trap Sing McKnight,86,243836,https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce,"['rap', 'slap house']"
+7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,beerbongs & bentleys,82,231266,https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268,"['dfw rap', 'melodic rap', 'rap']"
+3tm66xqlZjnqJEjt74U7Js,Fuck That Bitch,Horseshoe G.A.N.G.,"Mixtape Monthly, Vol. 4",49,128835,https://i.scdn.co/image/ab67616d0000b273787e4c9163d1264f265e23f6,[]
+3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),Post Malone,beerbongs & bentleys,79,221440,https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268,"['dfw rap', 'melodic rap', 'rap']"
+51Fjme0JiitpyXKuyQiCDo,Lalala,Y2K,Lalala,78,160626,https://i.scdn.co/image/ab67616d0000b2738a6ccb507dd6a66f7f6e2440,['pop rap']
+1xzBco0xcoJEDXktl7Jxrr,Mo Bamba,Sheck Wes,MUDBOY,77,183906,https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8,"['rap', 'trap', 'underground hip hop', 'vapor trap']"
+2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),Meek Mill,Championships,81,180522,https://i.scdn.co/image/ab67616d0000b273cd63c5962050729d260077d6,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+3s4mrPrEFFPF0LmAfutW0n,The London (feat. J. Cole & Travis Scott),J. Cole,So Much Fun,67,200186,https://i.scdn.co/image/ab67616d0000b2736fcd1b6e205d0d19d9efa0cc,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+2t8yVaLvJ0RenpXUIAC52d,a lot,21 Savage,i am > i was,79,288624,https://i.scdn.co/image/ab67616d0000b273280689ecc5e4b2038bb5e4bd,"['atl hip hop', 'hip hop', 'rap', 'trap']"
+2AiZm17zqkV7llT3SHz4Nu,Bài Này Chill Phết,Đen,Bài Này Chill Phết,55,276000,https://i.scdn.co/image/ab67616d0000b273c04f4282348d4d24de0f7b70,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+0ipXEp5M0G5Tr7xx9u1hSY,Nếu Mình Gần Nhau,Đen,Nếu Mình Gần Nhau,39,196062,https://i.scdn.co/image/ab67616d0000b2731e5cb29f38d3f28dc9d356e8,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+7GxSshyjKx46dlIV2UoVrc,Anh Đếch Cần Gì Nhiều Ngoài Em,Đen,Anh Đếch Cần Gì Nhiều Ngoài Em,51,217133,https://i.scdn.co/image/ab67616d0000b273babcd515ad455b2c49c54c96,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+0g1lSO4QxUCoxpVp0xvDmD,Đi Theo Bóng Mặt Trời,Đen,Đi Theo Bóng Mặt Trời,46,162102,https://i.scdn.co/image/ab67616d0000b2732fb6442b420a851093bd3282,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+1Axzkl935WrIsBwDqk90yQ,Đưa Nhau Đi Trốn (Chill Version),Đen,Đưa Nhau Đi Trốn (Chill Version),49,241958,https://i.scdn.co/image/ab67616d0000b273e419b5490140a0f4dad08a63,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+1ayp8veQBb6NRZepn7ENm6,Lạ Lùng,Vũ.,Lạ Lùng,0,261590,https://i.scdn.co/image/ab67616d0000b273462f6f98268bc98ab778c839,"['indie viet', 'rock viet', 'v-pop', 'vietnamese singer-songwriter']"
+6v4VmNw4DFlbhuBQ1qFprN,Túy Âm,Masew,Túy Âm,45,202000,https://i.scdn.co/image/ab67616d0000b2731408e9bf3488524d71c2dcbd,['v-pop']
+7GLjPxORWM6FWpMhdvtJrx,Người Lạ Ơi - Masew Remix,Chau Dang Khoa,Người Lạ Ơi !,0,307291,https://i.scdn.co/image/ab67616d0000b2731cddec00a3859be6481e0037,[]
+3TXSdTpaqKBpWyUG3aJ3LK,Mượn Rượu Tỏ Tình,BigDaddy,Mượn Rượu Tỏ Tình,2,198375,https://i.scdn.co/image/ab67616d0000b27370c134651375c97ac3807c2e,"['v-pop', 'vietnamese hip hop']"
+3b34161QoxLwsqhWSPy9i5,Thanh Xuan,Da LAB,Thanh Xuan,55,220509,https://i.scdn.co/image/ab67616d0000b273d2d4309d7c9997a6e4cf2993,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+7KiVghFxUSJjrSQXlb9tdh,Nhắm Mắt Thấy Mùa Hè,Nguyen Ha,Nhắm Mắt Thấy Mùa Hè (Nhạc Phim),50,282857,https://i.scdn.co/image/ab67616d0000b2736cfa1d0d195d09b70b0011d0,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']"
+3zzyygDizZyE08d1yT9sXd,Nến Và Hoa,Rhymastic,Nến Và Hoa,0,166000,https://i.scdn.co/image/ab67616d0000b273f006c945dbf798df35177960,"['v-pop', 'vietnamese hip hop']"
+5QZxwgUSEvcGgj8z8MfkUN,Phút Ban Đầu,Vũ.,Phút Ban Đầu,0,243200,https://i.scdn.co/image/ab67616d0000b273bb70267336dd9017ea1a6b50,"['indie viet', 'rock viet', 'v-pop', 'vietnamese singer-songwriter']"
+4a5wfF0SGh3XnDSvihVw79,They Said,Binz,They Said,34,234418,https://i.scdn.co/image/ab67616d0000b273f4ed369e1b1fca800544f29e,"['v-pop', 'vietnamese hip hop']"
+6PLNoijWdc3dWqc1KKjv73,Đâu Cần Một Bài Ca Tình Yêu,Tien Tien,Đâu Cần Một Bài Ca Tình Yêu,0,195514,https://i.scdn.co/image/ab67616d0000b27300621802bf211e79145b909c,"['v-pop', 'vietnamese singer-songwriter']"
+3EuOQ0v6LxsNFSf3BF5wrw,Mot Nha,Da LAB,Mot Nha,46,185643,https://i.scdn.co/image/ab67616d0000b2739e0fca392f2880a676582925,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+0zVEBZoLToUJygyfKg9GDS,Hôm Nay Tôi Buồn,Phùng Khánh Linh,Hôm Nay Tôi Buồn,0,275000,https://i.scdn.co/image/ab67616d0000b273ae209475d727429893392838,['v-pop']
+6ksvjB1LSB7splNtvA49xX,Người Âm Phủ,Osad,Người Âm Phủ,0,130558,https://i.scdn.co/image/ab67616d0000b2737928199510c22a75cc476bc3,['v-pop']
+6ZB76HLpRe1UcbxEBw4w5M,Yêu Lại Từ Đầu,Khac Viet,Yêu Lại Từ Đầu,0,207072,https://i.scdn.co/image/ab67616d0000b27329e2f5ddd5b2adf5dc2db28d,['v-pop']
+72JmsjVP3HeNfi4dzJDZWa,Đông Kiếm Em,Vũ.,Đông Kiếm Em,0,246043,https://i.scdn.co/image/ab67616d0000b273b2b582b3baf742fca189ceb1,"['indie viet', 'rock viet', 'v-pop', 'vietnamese singer-songwriter']"
+4otPckwHKKGxSsIi97TCAD,Tìm (Lost) [feat. Mr. A],MIN,First Digital Album,40,266000,https://i.scdn.co/image/ab67616d0000b273945543c9fdcd1da1da35fcfe,['v-pop']
+3GA7UJ9QgmqDmeSg4yRQhv,Bốn Chữ Lắm,Truc Nhan,Bốn Chữ Lắm,0,257238,https://i.scdn.co/image/ab67616d0000b27335b26940a8930a9bda2bc00f,['v-pop']
+6OSWTtSplw9SWv33aDmKWB,Em Dạo Này,Ngọt,Ng'bthg,45,201828,https://i.scdn.co/image/ab67616d0000b2732941e5c1d7222cd392f09c47,"['indie viet', 'rock viet', 'v-pop']"
+5Sh5CK6GReVbZJqUOnvg0f,"Bài Ka Tuổi Trẻ (feat. Vũ Bùi Thu Thủy, Linh Cáo & Mel G)",JGKiD (Da LAB),"Bài Ka Tuổi Trẻ (feat. Vũ Bùi Thu Thủy, Linh Cáo & Mel G)",41,229681,https://i.scdn.co/image/ab67616d0000b273f7787dd9d4e06e4961f3bfca,['vietnamese hip hop']
+52oyR8Wjhdzg7zucr8keYl,Đường Một Chiều,Huỳnh Tú,Đường Một Chiều,48,286998,https://i.scdn.co/image/ab67616d0000b2732fa897f5a05ce24124a12542,['v-pop']
+30FYaYQBKVROiFUpuSdDEM,Ve Thoi,Da LAB,Ve Thoi,32,262827,https://i.scdn.co/image/ab67616d0000b273db95c360eb62be9c4ef1b506,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+1OvwmUN6NBbwn1msFw1biQ,Mân Côi,Linh Cáo,Mân Côi,0,253387,https://i.scdn.co/image/ab67616d0000b2736aaab8427d99e6df497538dc,"['v-pop', 'vietnamese hip hop']"
+6eFx3CzYrtPKGsV52BR3VQ,Hà Nội Ở Sài Gòn,Trang,Hà Nội Ở Sài Gòn,0,234122,https://i.scdn.co/image/ab67616d0000b2732efd839c3996f4d79cd3bcb0,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']"
+6XrAKr1BYRtldlXF5frIBP,Ừ Thì,Mew Amazing,Ừ Thì (original),36,228219,https://i.scdn.co/image/ab67616d0000b273e104c1418e05a84c88c9e399,['v-pop']
+1dZV513THyfDUONv351KVI,Nếu Ngày Mai Không Đến,Chillies,Nếu Ngày Mai Không Đến,0,330967,https://i.scdn.co/image/ab67616d0000b2730c56b30c98faeae07cca7fed,"['indie viet', 'v-pop']"
+2FAOdl0hE1rDL3odBxQxZ7,Quăng Tao Cái Boong Remix,Masew,Quăng Tao Cái Boong Remix,31,261085,https://i.scdn.co/image/ab67616d0000b2733ac7ec59039deab351bfbf64,['v-pop']
+5kRTXjVcdAHNCCbiUtJZTR,Tình Đắng Như Ly Cà Phê,Ngơ,Tình Đắng Như Ly Cà Phê,0,215172,https://i.scdn.co/image/ab67616d0000b27323a0a678d714f2a47a44721f,['vietnamese hip hop']
+55x4tHy0m1xgCNn8Svfshj,Chúc Ngủ Ngon,Tam Ka Pkl,Chúc Ngủ Ngon,0,265819,https://i.scdn.co/image/ab67616d0000b2731fed124945721f9854aa8778,['vietnamese hip hop']
+31zak6bhp3N2eU8tmLVo9W,419,Quanium,419,1,147840,https://i.scdn.co/image/ab67616d0000b273969bc686e702cc85afbc6f0b,[]
+01GttEhbqMrVWdq26icFku,một file âm thanh nhỏ.mp3,itsnk,một file âm thanh nhỏ.mp3,29,236347,https://i.scdn.co/image/ab67616d0000b2739f32d5cd3cadabc0fdbff259,['vietnamese hip hop']
+22F7P7QnaVspdf5rKveBaS,Lối Nhỏ,Đen,Lối Nhỏ,1,252953,https://i.scdn.co/image/ab67616d0000b27390bce403c677305693f3e8ea,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+2Emlw3C8Rqn9lAen25OItw,Cảm ơn,Đen,Cảm ơn,0,215172,https://i.scdn.co/image/ab67616d0000b2736ae3640bda1c335fca855091,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+5RutrRsc0LPcZn2hAN11Ry,Trời Ơi Con Chưa Muốn Chết,Đen,Trời Ơi Con Chưa Muốn Chết,0,162441,https://i.scdn.co/image/ab67616d0000b27322af611226e4e3d9163caf02,"['indie viet', 'v-pop', 'vietnamese hip hop']"
+3wGx3gYPjECKZazGNuPEX2,Phải Chăng Em Đã Yêu?,Juky San,Phải Chăng Em Đã Yêu?,46,190000,https://i.scdn.co/image/ab67616d0000b273bebe2d4754ba6abfc0051f1d,['v-pop']
+6FRLCMO5TUHTexlWo8ym1W,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,Girls Like You (feat. Cardi B),73,235545,https://i.scdn.co/image/ab67616d0000b27334ce9a9dde9c057225509276,"['pop', 'pop rock']"
+1HYzRuWjmS9LXCkdVHi25K,Stay With Me,CHANYEOL,"Guardian (Original Television Soundtrack), Pt. 1",74,192441,https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa,['k-pop']
+5uCax9HTNlzGybIStD3vDh,Say You Won't Let Go,James Arthur,Back from the Edge,85,211466,https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab,"['pop', 'talent show', 'uk pop']"
+1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),Clean Bandit,Symphony (feat. Zara Larsson),76,212459,https://i.scdn.co/image/ab67616d0000b2735b1130d050c4cd2295999d85,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']"
+1ZLrDPgR7mvuTco3rQK8Pk,Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,SHAUN,Way Back Home (feat. Conor Maynard) [Sam Feldt Edit],75,192452,https://i.scdn.co/image/ab67616d0000b27391994452af66b672954b6eb4,['k-pop']
+6f3Kn4QtwZPU2IvwwDSbLF,La Da Dee,Cody Simpson,Surfers Paradise,31,196786,https://i.scdn.co/image/ab67616d0000b27396ed3ee8924c71a5da337f35,"['australian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']"
+0uUNN1nSoUx1A4fkDCWDQ7,So Am I,Ava Max,So Am I,6,183026,https://i.scdn.co/image/ab67616d0000b273b8dcf98474721fe404ad780d,"['dance pop', 'pop']"
+7hTMgYCxLBTmFlEFC91VZQ,Sweet but Psycho,Ava Max,So Am I,0,187436,https://i.scdn.co/image/ab67616d0000b273b8dcf98474721fe404ad780d,"['dance pop', 'pop']"
+4AMY0oGSt7vZwgxDnHCJBr,True Colors (feat. Maya Avedis),XO Cupid,True Colors (feat. Maya Avedis),58,184019,https://i.scdn.co/image/ab67616d0000b273e773fd371c2a1a40ba197637,[]
+1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,Pray for the Wicked,82,190946,https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989,['modern rock']
+7j56HrjR9cGzvekvZY3Faz,HandClap,Fitz and The Tantrums,Fitz and The Tantrums,66,193253,https://i.scdn.co/image/ab67616d0000b27358c4833cc8b1a3d6e4890940,"['indie poptimism', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']"
+0mtmrbRFsectINNpHdDkUQ,Just Imagine It,MKTO,Bad Girls EP,58,250746,https://i.scdn.co/image/ab67616d0000b273acba4cdfd13828b5dc982249,"['dance pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'social media pop']"
+1i1fxkWeaMmKEB4T7zqbzK,Don't Let Me Down,The Chainsmokers,Don't Let Me Down,80,208373,https://i.scdn.co/image/ab67616d0000b273df7cddc2d32ef9df762d5a30,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']"
+3RiPr603aXAoi4GHyXx0uy,Hymn for the Weekend,Coldplay,A Head Full of Dreams,82,258266,https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6,"['permanent wave', 'pop']"
+2lYTJK94hb0fd1LQtb6Dhk,Don't Leave Me Alone (feat. Anne-Marie),David Guetta,Don't Leave Me Alone (feat. Anne-Marie),61,183750,https://i.scdn.co/image/ab67616d0000b27303889a8b80ee94dccdbe34f5,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']"
+2BgEsaKNfHUdlh97KmvFyo,2002,Anne-Marie,Speak Your Mind (Deluxe),82,186986,https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']"
+3b5Li4QKDVBx1x7fQuu54a,Tired,Alan Walker,Tired,65,192111,https://i.scdn.co/image/ab67616d0000b273c311619d7b02d5c4a6c167f2,['electro house']
+6u7jPi22kF8CTQ3rb9DHE7,Old Town Road (feat. Billy Ray Cyrus) - Remix,Lil Nas X,Old Town Road,4,157066,https://i.scdn.co/image/ab67616d0000b273bc5839eea68e7ff7f1010f93,"['lgbtq+ hip hop', 'pop']"
+2F83FxNVkK6PPMHuYnwyVc,Let It Be Me (feat. Ava Max),David Guetta,7,66,172933,https://i.scdn.co/image/ab67616d0000b27367e400c9be79e6b0b0086880,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']"
+0o9bHFc8Lt5tZFvTjNZTNf,Forever Young,John De Sohn,Forever Young,59,167911,https://i.scdn.co/image/ab67616d0000b273a21da8cbcee1d0e640df539c,"['deep pop edm', 'edm', 'pop dance', 'pop edm', 'progressive electro house', 'swedish pop', 'swedish tropical house', 'tropical house']"
+3HVWdVOQ0ZA45FuZGSfvns,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),81,219946,https://i.scdn.co/image/ab67616d0000b27357cc434093fd4b6af7500fd8,"['pop', 'uk pop']"
+78nplE9X2ZGvQh3TKgvldE,Rewrite The Stars (with James Arthur & Anne-Marie),James Arthur,The Greatest Showman: Reimagined,64,218293,https://i.scdn.co/image/ab67616d0000b273828789ff08a16218b2ea9445,"['pop', 'talent show', 'uk pop']"
+3TXSdTpaqKBpWyUG3aJ3LK,Mượn Rượu Tỏ Tình,BigDaddy,Mượn Rượu Tỏ Tình,2,198375,https://i.scdn.co/image/ab67616d0000b27370c134651375c97ac3807c2e,"['v-pop', 'vietnamese hip hop']"
+2cKovq3l6OJjhVVDbVKOsr,The Other Side,Hugh Jackman,The Greatest Showman (Original Motion Picture Soundtrack),73,214373,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,"['hollywood', 'show tunes']"
+1Fo4OvzP9PThFKMeMIAEYu,Superhero,Lauv,Superhero,64,179997,https://i.scdn.co/image/ab67616d0000b27334a512edc868f3b63c3e453e,"['dance pop', 'electropop', 'pop']"
+6h2Jlka19Es2x5W2WyE19l,Stick Together,Elijah N,Forgetting This,0,195000,https://i.scdn.co/image/ab67616d0000b273df03132f3c96d9a6c45bf378,[]
+2SeDMCh42CfY97ZUV3jH27,The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me,Anthem Lights,"We Got You Covered, Vol. 3",54,246020,https://i.scdn.co/image/ab67616d0000b2736a28b3145d907e130119cc41,"['ccm', 'christian alternative rock', 'christian music', 'viral pop', 'worship']"
+3ENjlO1UbsfWGfcgxzxcwX,Class of 2018 Medley: I Will Remember You / See You Again / Time of My Life / Forever Young / Good Riddance (Time of Your Life),Anthem Lights,"We Got You Covered, Vol. 3",43,164672,https://i.scdn.co/image/ab67616d0000b2736a28b3145d907e130119cc41,"['ccm', 'christian alternative rock', 'christian music', 'viral pop', 'worship']"
+4ylWMuGbMXNDgDd8lErEle,The Greatest Show,Hugh Jackman,The Greatest Showman (Original Motion Picture Soundtrack),74,302146,https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd,"['hollywood', 'show tunes']"
+3zJH6phPhriLI9ImxHLXO8,Monsters (Alex S Remix) [feat. Alex S.],Katie Sky,Monsters (Alex S Remix) [feat. Alex S.],27,357257,https://i.scdn.co/image/ab67616d0000b273a849f0086b6138d527d2c0f1,[]
+2xkrujtSjZz7EKAYGbIIzH,Blah Blah Blah,Armin van Buuren,Blah Blah Blah,68,183518,https://i.scdn.co/image/ab67616d0000b273dfdf210243811401b2e947bd,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']"
+2pwnEzgIzYL4AOw4ousjkB,Let the Games Begin,AJR,Let the Games Begin,61,201004,https://i.scdn.co/image/ab67616d0000b2735bacbd7a9fce66e3527fa85b,"['modern rock', 'pop rap']"
+7bXvOMQ3UrcTS1dO9Ppzsg,Sober Up (feat. Rivers Cuomo),AJR,The Click,58,218760,https://i.scdn.co/image/ab67616d0000b273fb9366711c6cadb7736f36c8,"['modern rock', 'pop rap']"
+3BuLtAmXKy5uQYl4ED1zBT,Weak,AJR,The Click,67,201160,https://i.scdn.co/image/ab67616d0000b273fb9366711c6cadb7736f36c8,"['modern rock', 'pop rap']"
+2zXRAZvUb2B5PzJGwCtFe0,Chasing Fire,Lauv,I met you when I was 18. (the playlist),63,205267,https://i.scdn.co/image/ab67616d0000b2735355919e31efac9b14c45c49,"['dance pop', 'electropop', 'pop']"
+0jAPoaOuMMuCJyIgTOvSfh,Drag Me Down / As Long as You Love Me (Mashup),BYU Vocal Point,"Music Video Hits, Vol. 1",45,225458,https://i.scdn.co/image/ab67616d0000b27315ee83e0420932b2f5f487ac,"['a cappella', 'christian a cappella', 'college a cappella', 'lds youth']"
+1jLsirPDkUS2g4gnkYua58,Ignite,Alan Walker,Ignite,73,210288,https://i.scdn.co/image/ab67616d0000b273eaee7835ad1cd0c435edd7cf,['electro house']
+2P4OICZRVAQcYAV2JReRfj,Waiting For Love,Avicii,Stories,80,230613,https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468,"['dance pop', 'edm', 'pop', 'pop dance']"
+14BH4qO7pgCmIe6mgLKOK3,Someone To You,BANNERS,Empires On Fire,75,219800,https://i.scdn.co/image/ab67616d0000b273d8fac444b26ac8c2e9ff1a48,"['indie poptimism', 'modern rock', 'pop', 'pop rock']"
+6A9QEWYXpXLMeJLRjGsIJ1,돌덩이,Ha Hyun Woo,ITAEWON CLASS (Original Television Soundtrack) Pt. 3,53,209320,https://i.scdn.co/image/ab67616d0000b2733402e9e5d8a893174a0d8ce4,['korean ost']
+4kIpBfvK44bxqX7zo8K1oP,시작,Gaho,ITAEWON CLASS (Original Television Soundtrack) Pt.2,67,202440,https://i.scdn.co/image/ab67616d0000b273b862525c915cdd81cb343f75,"['k-pop', 'korean pop']"
+3ZCtiUSYDNHN9zAXWn4Uwl,Take You To Hell,Ava Max,Heaven & Hell,0,164537,https://i.scdn.co/image/ab67616d0000b2732ca6f6a1cf2cb7c43de08db5,"['dance pop', 'pop']"
+4TlxeDCyx8epXp1OoOwyn9,Rule the World,TheFatRat,Rule the World,51,181323,https://i.scdn.co/image/ab67616d0000b27330de27e8d97394ce3f0cd80b,['speedrun']
+06kxa3al7bUqRRo5nAFduZ,Nightlight,ILLENIUM,Nightlight,65,222400,https://i.scdn.co/image/ab67616d0000b273223f97eeb08ae88cf6bf8dfc,"['edm', 'melodic dubstep', 'pop', 'pop dance', 'tropical house']"
+6SOw5YcoAXoKphG5iPzXEz,Photo of My Mind,Song Ga In,"Crash Landing on You (Original Television Soundtrack), Pt. 6",1,272720,https://i.scdn.co/image/ab67616d0000b2738a881ae2112966d835e52a0b,['trot']
+57Zcl7oKKr29qHp38dzzWi,Echo,Yves V,Echo,66,180560,https://i.scdn.co/image/ab67616d0000b2730b74292f2a1f6825f10f3c4f,"['belgian edm', 'brazilian edm', 'dance pop', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house', 'tropical house']"
+29CjkGjZnDVdJsfbRoNOGJ,Scared to Be Lonely - Acoustic Version,Martin Garrix,Scared to Be Lonely (Acoustic Version),62,257357,https://i.scdn.co/image/ab67616d0000b273944c32b68012ae1a4c5d89ed,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']"
+5zgKbnMnySDgGxUC3KkvCZ,IDGAF - Acoustic,Matt Johnson,IDGAF (Acoustic),13,192166,https://i.scdn.co/image/ab67616d0000b2735f83291401f377ca13f5d714,"['acoustic cover', 'neo mellow', 'viral pop']"
+6gnS49VEamgI5zQmjsUxs3,There's Nothing Holdin' Me Back - Acoustic,Shawn Mendes,There's Nothing Holdin' Me Back (Acoustic),0,201093,https://i.scdn.co/image/ab67616d0000b273c76e961e8b336f7edd44b438,"['canadian pop', 'dance pop', 'pop', 'viral pop']"
+4ong8gUO6Nq4iYf1BvoYXT,Girls Like You,Kurt Hugo Schneider,Girls Like You,47,215760,https://i.scdn.co/image/ab67616d0000b2732bacd74886c46391883a4420,"['pop', 'post-teen pop', 'viral pop']"
+3YkhNMK7YcdkUSKM5nM3ur,The Nights,Chlara,The Nights,62,222000,https://i.scdn.co/image/ab67616d0000b27311294ddabe85c8df49ebe990,"['opm', 'viral pop']"
+3VOtM6x5KXZuxSzHaaf9oO,Mama - Acoustic,Jonas Blue,Mama (Acoustic),0,192277,https://i.scdn.co/image/ab67616d0000b27361421e4408d37631815b4139,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']"
+1almCHdsfikRPfVB9VrEdT,Little Do You Know,Alex & Sierra,It's About Us,77,185200,https://i.scdn.co/image/ab67616d0000b273925b6102fc5edac08ec995b5,"['neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']"
+4SjPJxsczdVx2Wafi5mT0J,Rewrite the Stars,Joseph Vincent,Rewrite the Stars,17,200259,https://i.scdn.co/image/ab67616d0000b273c7a29f4b1815e2f895a6ef0b,"['pop', 'viral pop']"
+6N8bOypJtAzJp8w2LF8cWG,Strip That Down - Acoustic,Liam Payne,Strip That Down (Acoustic),0,184475,https://i.scdn.co/image/ab67616d0000b2733aca80597ef39b3f0e04b2d6,"['dance pop', 'pop', 'post-teen pop']"
+2GzvzxXnyJ9l3obE4JskC2,I Like Me Better,Ysabelle Cuevas,Ysabelle,54,189673,https://i.scdn.co/image/ab67616d0000b27394b8feee25f100cfe8bc2d97,"['acoustic opm', 'opm']"
+3otAtzQb3f7adNdiCgdECo,Starving - Acoustic,Hailee Steinfeld,Starving (Acoustic),0,181293,https://i.scdn.co/image/ab67616d0000b273f3716cffe478e52482f4c7af,"['dance pop', 'pop', 'post-teen pop']"
+1tN1Xz8H5cmrBEBZeKxP5k,Let Me Go (Acoustic),Amanda Yang,Let Me Go (Acoustic),0,141214,https://i.scdn.co/image/ab67616d0000b273e91fb31b12cc79e86bd55fdd,['viral pop']
+30LDuVfrePWbedYTc1mUCn,Rockabye - Acoustic Version,The Mayries,Rockabye (Acoustic),56,157466,https://i.scdn.co/image/ab67616d0000b27332959a7403125f3cee45d3fe,"['acoustic cover', 'acoustic pop', 'neo mellow', 'viral pop']"
+2nzB3E2LsmSETiDTr1Y2Tf,Fresh Eyes,Grace Grundy,Fresh Eyes,0,230031,https://i.scdn.co/image/ab67616d0000b2732ec9e6d921400dadd527cabc,"['channel pop', 'viral pop']"
+6MsYPZUmabBIQ2DgMCrJG0,Symphony,Sabrina,I Love Acoustic 10.2,44,255939,https://i.scdn.co/image/ab67616d0000b27345a4959ff02502049c8bd95a,['opm']
+7zcAFwEbHXNeIePVwMEIkS,These Days,Bailey Jehl,These Days,49,151791,https://i.scdn.co/image/ab67616d0000b2733ca9971c4d729ef148c7e603,"['acoustic chill', 'viral pop']"
+5rXztnpx9y44vHO9Pt3AUI,A Little Braver,New Empire,In A Breath,28,206853,https://i.scdn.co/image/e6688c8a6cc567c278810a6f8cf98f9f8c8bd816,[]
+05Kms0excTlHRel656GZ3U,Monsters,Katie Sky,Monsters,64,217840,https://i.scdn.co/image/ab67616d0000b273886700d7789fc42dce933882,[]
+6yIHGmQLJxWAUZ1ZkENemN,Can't Help Falling in Love,Haley Reinhart,Better,73,173174,https://i.scdn.co/image/ab67616d0000b27382ad647e950d61f30d02ff16,['idol']
+1NWvbQI3bNfPxbxF9OQ1Ek,Dusk Till Dawn,Amanda Yang,Dusk Till Dawn,55,208568,https://i.scdn.co/image/ab67616d0000b2732cfe5c58ae9e63eac5f6c6f8,['viral pop']
+6A2M7DkApK58Wjmnkj8r0h,Les Champs-Elysées,Pomplamoose,Les Champs-Elysées,0,184790,https://i.scdn.co/image/ab67616d0000b27343688ee87bc39d14c50ca692,"['folk-pop', 'indie pop']"
+6SOw5YcoAXoKphG5iPzXEz,Photo of My Mind,Song Ga In,"Crash Landing on You (Original Television Soundtrack), Pt. 6",1,272720,https://i.scdn.co/image/ab67616d0000b2738a881ae2112966d835e52a0b,['trot']
+0NllkLutTx00BeIwNXlZIo,Shallow Brown,Sean Dagher,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],24,137436,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+2hxRyDlwQtxj502oTCa62Y,Windy Old Weather,David Tinervia,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],23,103789,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+1gxlOpsdJ9Dg5XZdYgxCtT,Jolly Roving Tar,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],24,135162,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+3gsIs6zMXL8RqFFCI14ZDg,Pay Me the Money Down,Sean Dagher,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],22,95644,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+78asetJtgk64Vh43wraEVW,Paddy Layback,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],20,154812,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+78MpvvxwVjwCsCrjuQE3LU,Don't Forget Your Old Shipmates,Sean Dagher,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],32,133995,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+04VJ6d28ChN5AGNF8zWMqm,Donkey Riding,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],26,118290,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+1NAwf7hUdj1iTNOmMRHceY,New York Girls,David Tinervia,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],22,138247,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+07Y0F978utprJqUtt3f7Rd,Round the Corner Sally,Clayton Kennedy,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],19,72855,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+1Nj4PmEQgbRyU5SZCbBZXg,Liverpool Judies,Clayton Kennedy,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],21,144136,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+6sYDO6hRf3E9qHvA9NjcgX,Rolling Down to Old Maui,Clayton Kennedy,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],22,150458,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+1nKq6LuvuB84l6Dnfhc7Fm,Heave Away Me Johnny,Sean Dagher,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],22,100448,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+3bfknodtSn54GQE1aIOcI8,Blood Red Roses,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],18,187582,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+4624CSiDkTH48lYd4PbxF7,Bold Riley Oh,Clayton Kennedy,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],19,102549,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+266bzcpwlIJmXeUA9IwhDg,Go to Sea Once More,Sean Dagher,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],26,133628,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+5f9IHz5a3Fr3NsRgA7tAHC,My Bonnie Highland Lassie,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],18,97120,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+1KRamHbLIDeJPABDXHRX0R,One More Day,Clayton Kennedy,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],20,147282,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+4hWjrDakocDt1Dy4CftyOy,Haul Away,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],21,93445,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+0xAW17wIE8mvoDwb34IsCC,Hi for the Beggerman,Michiel Schrey,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],20,132369,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+7vAnRPcN2WsesHq9ML1K5Z,The Bonnie Lass o'Fyvie,Nils Brown,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],18,120905,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+2II3nKe1x3USykJoE5OJi0,Little Drummer,Michiel Schrey,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],22,138641,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+6rkSzbRhOZk3z4Rm2jpXhI,Henri Martin,Sean Dagher,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],21,137351,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+3tH43dan5r948RqJejEcZb,Katie Cruel,Charlotte Cumberbirch,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],19,114225,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+5IPzN04tOiUhQ5UoHwruxP,Ye Jacobytes,Nelson Carter,Assassin's Creed Rogue (Sea Shanty Edition) [Original Game Soundtrack],32,82583,https://i.scdn.co/image/ab67616d0000b2734cb65c59be31931cdd46b2c6,['shanty']
+6ndmKwWqMozN2tcZqzCX4K,Remember the Name (feat. Styles of Beyond),Fort Minor,The Rising Tied,75,230493,https://i.scdn.co/image/ab67616d0000b273063fc4921a6d7fbac76e9bba,"['pop rap', 'rap rock']"
+0zaAUrSvMYrBGcLcmWKcxy,Beyond the Sea,Robbie Williams,Beyond The Sea,52,267562,https://i.scdn.co/image/ab67616d0000b273dd5593f99402c3c85f67af22,"['dance pop', 'dance rock', 'europop']"
+0waQuGsfGoogXEilxdUaSF,"Can You Feel the Love Tonight (From ""The Lion King"") - From ""The Lion King"" / Soundtrack Version",Joseph A. Williams,Best of The Lion King,24,177866,https://i.scdn.co/image/ab67616d0000b2732d3397d654bd3d5f725d1c03,[]
+05Kms0excTlHRel656GZ3U,Monsters,Katie Sky,Monsters,64,217840,https://i.scdn.co/image/ab67616d0000b273886700d7789fc42dce933882,[]
+1EyvonxK8OGHRV4WDRdArc,Can You Feel the Love Tonight,Boyce Avenue,Can You Feel the Love Tonight,67,250916,https://i.scdn.co/image/ab67616d0000b273c340f6f23cf176a5518acb13,"['acoustic cover', 'neo mellow', 'pop', 'viral pop']"
+3Uu6pcfL9xsdfsKRx3DXRf,the broken hearts club,gnash,we,64,184694,https://i.scdn.co/image/ab67616d0000b2734bdfa3edb4c521c570b8c14a,"['alt z', 'electropop', 'pop', 'pop rap', 'social media pop']"
+7og4nJ1NCle7JUsT1FfsTt,tell me it's okay,gnash,me,51,263111,https://i.scdn.co/image/ab67616d0000b273d3835977cfe2eb5fd31acf95,"['alt z', 'electropop', 'pop', 'pop rap', 'social media pop']"
+7nDdxPUC5LbxmspeqkOzt8,imagine if,gnash,we,64,197216,https://i.scdn.co/image/ab67616d0000b2734bdfa3edb4c521c570b8c14a,"['alt z', 'electropop', 'pop', 'pop rap', 'social media pop']"
+7bXvOMQ3UrcTS1dO9Ppzsg,Sober Up (feat. Rivers Cuomo),AJR,The Click,58,218760,https://i.scdn.co/image/ab67616d0000b273fb9366711c6cadb7736f36c8,"['modern rock', 'pop rap']"
+0TCmhnbMpw5zwPsTvlXTJi,Runaway,AURORA,All My Demons Greeting Me as a Friend (Deluxe),76,248826,https://i.scdn.co/image/ab67616d0000b273d3a757231b119bacf68b3ec2,"['art pop', 'norwegian pop']"
+5BuiZmp7H6hoUN5Fw2lUIp,Nothing Stopping Me (feat. Kat Nestel),Vicetone,Nothing Stopping Me (feat. Kat Nestel),1,223225,https://i.scdn.co/image/ab67616d0000b2735b62ec875f4ada5b24dc2ad0,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']"
+01iyINEYgPQ7ThMZuHUsqS,First Love,Lost Kings,First Love,54,207427,https://i.scdn.co/image/ab67616d0000b273eeed72c68952f844f187e8f6,"['alt z', 'dance pop', 'edm', 'electro house', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+6yWAmZphigz9WD7fMdDYqx,Gold,The Tech Thieves,Gold,30,172941,https://i.scdn.co/image/ab67616d0000b273e5fdc1466a3388ae04a97a70,"['alt z', 'bass trap', 'modern alternative rock', 'traprun']"
+5rqvpEqOkiu2k6K0UTZmzR,L.A. - Sistek Remix,Rosie Darling,L.A. (Sistek Remix),37,161000,https://i.scdn.co/image/ab67616d0000b2731514ad088c0f6a111e8911a6,['alt z']
+08bNPGLD8AhKpnnERrAc6G,FRIENDS,Marshmello,FRIENDS,80,202620,https://i.scdn.co/image/ab67616d0000b273569f64493ca55cd96fdee412,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']"
+7vGuf3Y35N4wmASOKLUVVU,Silence,Marshmello,Silence,81,180822,https://i.scdn.co/image/ab67616d0000b273f33ba583059dc2f7d08bf2b8,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']"
+1i1fxkWeaMmKEB4T7zqbzK,Don't Let Me Down,The Chainsmokers,Don't Let Me Down,80,208373,https://i.scdn.co/image/ab67616d0000b273df7cddc2d32ef9df762d5a30,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']"
+5BSvPvVTxveMSsAXGRxDLw,Don't Talk About It (feat. Lilly Ahlberg),UØ,Don't Talk About It (feat. Lilly Ahlberg),32,172315,https://i.scdn.co/image/ab67616d0000b27358a083e515f3ef84af788377,[]
+1I8tHoNBFTuoJAlh4hfVVE,Firestone,Kygo,Cloud Nine,77,271640,https://i.scdn.co/image/ab67616d0000b27335590cb9280d5a1f5221ae1a,"['edm', 'pop', 'pop dance', 'tropical house']"
+4unpXe9GYrqsD3eIL3QGZp,Meant To Be,Arc North,Meant To Be,58,208352,https://i.scdn.co/image/ab67616d0000b2734935d2c9766296d501483989,"['gaming edm', 'pop edm', 'slap house', 'traprun']"
+0drFciyqbrHgCbq2N5dK8Z,Always - Spectrumik Remix,The Him,Always (Spectrumik Remix),18,161333,https://i.scdn.co/image/ab67616d0000b273b50119b9bb2aaacc6655a950,"['big room', 'deep tropical house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']"
+5xFZiW98mwT5S3mh8O9BUt,United We Dance - Vicetone Edit,Vicetone,United We Dance (New Mixes),38,255483,https://i.scdn.co/image/ab67616d0000b273471a5e3f8d460c05a03704d5,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']"
+1839RWzPRZCVgvamu4sHSN,All My Love (feat. Conor Maynard),Cash Cash,All My Love (feat. Conor Maynard),55,191330,https://i.scdn.co/image/ab67616d0000b27319412f5b0f76d10d241f2981,"['dance pop', 'edm', 'electro house', 'electropop', 'electropowerpop', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+0DhkTGjEaIHaSxTfC14BFm,Lullaby,R3HAB,Lullaby,63,160183,https://i.scdn.co/image/ab67616d0000b27342ccfede327534e3de7c476c,"['dance pop', 'dutch house', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'slap house', 'tropical house']"
+4ODnJrz0C3AJ4DFv8YQhJ8,Sunrise (feat. Jason Walker),Kygo,Kids in Love,64,214826,https://i.scdn.co/image/ab67616d0000b273238d888f4282893ed8f83f2a,"['edm', 'pop', 'pop dance', 'tropical house']"
+5XiZK7m9PLppgIzJBpw2x5,Wait,Martin Jensen,Wait,46,165083,https://i.scdn.co/image/ab67616d0000b273c1257648b0d8f48150bd9971,"['dance pop', 'danish electronic', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+1NldMriIXmMdChqZtHCGbW,Dive With Me,LVNDSCAPE,Dive With Me EP,0,220432,https://i.scdn.co/image/ab67616d0000b273264b5a08cc417df5aa6acad0,"['deep house', 'deep tropical house', 'edm', 'electro house', 'pop dance', 'pop edm', 'tropical house']"
+4iOm49Ge1u4rLmTfuo6jUt,Need It,Jay Hardway,Need It,0,194928,https://i.scdn.co/image/ab67616d0000b2733b4951a0da71bfa8be19ed26,"['dutch edm', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house']"
+6UiDiFJUGEDzkGpZBL8IYq,I Feel The Love,Tritonal,Painting With Dreams,56,213120,https://i.scdn.co/image/1ba3fabdc667d91dc7405f3980c193e12169ac49,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance', 'trance', 'tropical house', 'uplifting trance']"
+77VLYTyrdlHEWcjhjQoXlz,Oh Child,Robin Schulz,Uncovered,54,197626,https://i.scdn.co/image/ab67616d0000b273c874b3eb6242b8d632ac2305,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']"
+2y5aJvzXhHPA94U5GFAcXe,I Don’t Wanna Live Forever (Fifty Shades Darker),ZAYN,Fifty Shades Darker (Original Motion Picture Soundtrack),67,245653,https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2,"['dance pop', 'pop', 'post-teen pop', 'uk pop']"
+7hvxMYq9JW5W0vFwiu1Zdr,Dreamer,Axwell /\ Ingrosso,More Than You Know,0,251147,https://i.scdn.co/image/ab67616d0000b273a1944d8afb76a8fd03ed8c0f,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']"
+5yFSF6qQA1rcLsQRnBsZgb,All Falls Down (feat. Juliander),Alan Walker,All Falls Down (feat. Juliander),66,199111,https://i.scdn.co/image/ab67616d0000b273206fdebc66bd04d9913f035d,['electro house']
+39IsH7B5byx8NRlEKlZVg9,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,Pretty Girl (Cheat Codes X CADE Remix),64,193613,https://i.scdn.co/image/ab67616d0000b2735640c17778d716bd35f45b3e,"['alt z', 'pop', 'post-teen pop']"
+5CLGzJsGqhCEECcpnFQA8x,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",75,210772,https://i.scdn.co/image/ab67616d0000b273e9f49a29f00d42d7857794a5,"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']"
+7EmGUiUaOSGDnUUQUDrOXC,Wolves,Selena Gomez,Wolves,1,197993,https://i.scdn.co/image/ab67616d0000b27310368f28dac3b838770f985c,"['dance pop', 'pop', 'post-teen pop']"
+5SE57ljOIUJ1ybL9U6CuBH,DNA,BTS,Love Yourself 承 'Her',72,223122,https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8,"['k-pop', 'k-pop boy group']"
+2ARqIya5NAuvFVHSN3bL0m,The Middle,Zedd,The Middle,2,184732,https://i.scdn.co/image/ab67616d0000b273247b73f96ede946a7fa0af12,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'tropical house']"
+0dA2Mk56wEzDgegdC6R17g,Stay (with Alessia Cara),Zedd,Stay,1,210090,https://i.scdn.co/image/ab67616d0000b27391a70f95efc3400f696e89cc,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'tropical house']"
+2kLf4myxQME1Nd0voeKZri,Stay Young,Mike Perry,Stay Young,47,157004,https://i.scdn.co/image/ab67616d0000b27370c2fbadb91c434d5996f954,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'swedish tropical house', 'tropical house']"
+5AEtlRudpgdT5FtNiuly6Y,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",1,174800,https://i.scdn.co/image/ab67616d0000b273dbdc892395413def043e0655,"['dance pop', 'pop', 'post-teen pop']"
+6WbADFqMvR8N5u0BvtsWQE,Without You (feat. Sandro Cavazza),Avicii,AVĪCI (01),1,181672,https://i.scdn.co/image/ab67616d0000b27330800bfbfff51ddb031d9bd7,"['dance pop', 'edm', 'pop', 'pop dance']"
+6OzOyjokUxv3AyYStQWNCg,Everything,Firebeatz,Everything,33,173862,https://i.scdn.co/image/ab67616d0000b2734b530505b7b0090e86d45da2,"['dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house']"
+6FRLCMO5TUHTexlWo8ym1W,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,Girls Like You (feat. Cardi B),73,235545,https://i.scdn.co/image/ab67616d0000b27334ce9a9dde9c057225509276,"['pop', 'pop rock']"
+0sQLhT32E9ZG2zn5iYR6nN,Locked Away (feat. Adam Levine),R. City,Locked Away (feat. Adam Levine),63,227280,https://i.scdn.co/image/ab67616d0000b27349f4611a5e4e8f4b89cbf814,"['reggae fusion', 'virgin islands reggae']"
+26gceVsA1ybT8qsX3aYLEn,Thunder,Imagine Dragons,Evolve,1,187146,https://i.scdn.co/image/ab67616d0000b273ee138477bb382419f3f165c5,"['modern rock', 'pop', 'rock']"
+4keoy2fqgwGnbWlm3ZVZFa,Happy Now,Zedd,Happy Now,72,207029,https://i.scdn.co/image/ab67616d0000b27341e9614560815b11c1ca543d,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'tropical house']"
+2VYiQ9ijG3NER2aevaxzDi,How to Love (feat. Sofia Reyes),Cash Cash,How to Love (feat. Sofia Reyes),0,219240,https://i.scdn.co/image/ab67616d0000b273485460b76d93866a02084266,"['dance pop', 'edm', 'electro house', 'electropop', 'electropowerpop', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+5uCax9HTNlzGybIStD3vDh,Say You Won't Let Go,James Arthur,Back from the Edge,85,211466,https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab,"['pop', 'talent show', 'uk pop']"
+1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),Clean Bandit,Symphony (feat. Zara Larsson),76,212459,https://i.scdn.co/image/ab67616d0000b2735b1130d050c4cd2295999d85,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']"
+4bMrguhtW5l31SNXd5IdSK,In the End,Tommee Profitt,In the End,0,234715,https://i.scdn.co/image/ab67616d0000b273393b22f4f77213bfc12105dc,['anthem worship']
+1suR7O1Coqso76HSw1zVa9,Against the Sun,Rootkit,Against the Sun,0,212288,https://i.scdn.co/image/ab67616d0000b273be056fff4b3b0013c5ebc7d4,"['chillstep', 'complextro', 'edm', 'electro house', 'future bass', 'gaming edm', 'melodic dubstep']"
+1fVm76JNGTpOGsUhgRJgxp,Queen Of Your Heart - (Lucid J Remix),Mizgin,Queen Of Your Heart (Lucid J Remix),0,252175,https://i.scdn.co/image/ab67616d0000b273b49b7854e4f8398b017bfa68,[]
+2oXwrVhXdnQDpYEnr4cAlc,Born to Lose (feat. Gia Koka),No Sleep,Born to Lose (feat. Gia Koka),34,192000,https://i.scdn.co/image/ab67616d0000b273c9137efdb96e458fdee9d5c1,[]
+3vv9phIu6Y1vX3jcqaGz5Z,Roses,The Chainsmokers,Roses,76,226738,https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']"
+7uqS1gGcgWD0wiiKttEmyp,Wishing Well (feat. Olivia Sebastianelli),Sam Feldt,Sunrise To Sunset,48,186610,https://i.scdn.co/image/ab67616d0000b27309345bdc4fa847fb5e5898cc,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+7dcmZskqXONZuIuqGRLJ1C,Intro,Alan Walker,Different World,54,76120,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,['electro house']
+0lG6QM1jjbbX5UUn3DPmrZ,Lost Control,Alan Walker,Different World,66,222320,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,['electro house']
+7kVDkZkZc8qBUBsF6klUoY,I Don't Wanna Go,Alan Walker,Different World,62,161666,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,['electro house']
+0lks2Kt9veMOFEAPN0fsqN,Lily,Alan Walker,Different World,75,195840,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,['electro house']
+4heFQCyiW0RUEX1Q1lb008,Different World (feat. CORSAK),Alan Walker,Different World,64,202906,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,['electro house']
+1gwwNLcYQRnzvkBhwDjUX3,Crazy Love,Audien,Crazy Love,54,174545,https://i.scdn.co/image/ab67616d0000b273e254de8ef4bcb0c30352c575,"['edm', 'electro house', 'electropop', 'indie poptimism', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']"
+1ZLrDPgR7mvuTco3rQK8Pk,Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,SHAUN,Way Back Home (feat. Conor Maynard) [Sam Feldt Edit],75,192452,https://i.scdn.co/image/ab67616d0000b27391994452af66b672954b6eb4,['k-pop']
+6f3Kn4QtwZPU2IvwwDSbLF,La Da Dee,Cody Simpson,Surfers Paradise,31,196786,https://i.scdn.co/image/ab67616d0000b27396ed3ee8924c71a5da337f35,"['australian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']"
+4AMY0oGSt7vZwgxDnHCJBr,True Colors (feat. Maya Avedis),XO Cupid,True Colors (feat. Maya Avedis),58,184019,https://i.scdn.co/image/ab67616d0000b273e773fd371c2a1a40ba197637,[]
+25sgk305KZfyuqVBQIahim,Sweet but Psycho,Ava Max,Sweet but Psycho,11,187436,https://i.scdn.co/image/ab67616d0000b273c5015d2a9270865a5979f56b,"['dance pop', 'pop']"
+1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,Pray for the Wicked,82,190946,https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989,['modern rock']
+3RiPr603aXAoi4GHyXx0uy,Hymn for the Weekend,Coldplay,A Head Full of Dreams,82,258266,https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6,"['permanent wave', 'pop']"
+2DGa7iaidT5s0qnINlwMjJ,The Spectre,Alan Walker,The Spectre,72,193787,https://i.scdn.co/image/ab67616d0000b273a6a151ed88a170ae3a81eff5,['electro house']
+6u7jPi22kF8CTQ3rb9DHE7,Old Town Road (feat. Billy Ray Cyrus) - Remix,Lil Nas X,Old Town Road,4,157066,https://i.scdn.co/image/ab67616d0000b273bc5839eea68e7ff7f1010f93,"['lgbtq+ hip hop', 'pop']"
+1jLsirPDkUS2g4gnkYua58,Ignite,Alan Walker,Ignite,73,210288,https://i.scdn.co/image/ab67616d0000b273eaee7835ad1cd0c435edd7cf,['electro house']
+3ZCtiUSYDNHN9zAXWn4Uwl,Take You To Hell,Ava Max,Heaven & Hell,0,164537,https://i.scdn.co/image/ab67616d0000b2732ca6f6a1cf2cb7c43de08db5,"['dance pop', 'pop']"
+4TlxeDCyx8epXp1OoOwyn9,Rule the World,TheFatRat,Rule the World,51,181323,https://i.scdn.co/image/ab67616d0000b27330de27e8d97394ce3f0cd80b,['speedrun']
+06kxa3al7bUqRRo5nAFduZ,Nightlight,ILLENIUM,Nightlight,65,222400,https://i.scdn.co/image/ab67616d0000b273223f97eeb08ae88cf6bf8dfc,"['edm', 'melodic dubstep', 'pop', 'pop dance', 'tropical house']"
+57Zcl7oKKr29qHp38dzzWi,Echo,Yves V,Echo,66,180560,https://i.scdn.co/image/ab67616d0000b2730b74292f2a1f6825f10f3c4f,"['belgian edm', 'brazilian edm', 'dance pop', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house', 'tropical house']"
+4ESPuOrSsRcBISzcMlzmY5,Sad (feat. Afrojack),Chico Rose,Sad (feat. Afrojack),66,161280,https://i.scdn.co/image/ab67616d0000b273383e3a4822a5fda0267d19c4,"['edm', 'electro house', 'pop dance', 'pop edm', 'slap house', 'tropical house']"
+3SWqGa1J0M7hSBUDM0KePD,Legend,The Score,ATLAS,74,189120,https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be,"['modern alternative rock', 'modern rock']"
+5k02Wjsu2MdpF3c9VFQD0k,Never Going Back,The Score,ATLAS,62,197680,https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be,"['modern alternative rock', 'modern rock']"

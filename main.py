@@ -2,7 +2,6 @@ import spotipy
 import csv
 from spotipy.oauth2 import SpotifyOAuth
 
-# Define your Client_ID, Client_Secret, and Redirect_URI
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="",
                                                client_secret="",
                                                redirect_uri="",

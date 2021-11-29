@@ -20,8 +20,8 @@ second_user_data = []
 second_user_data.append([second_user["id"], second_user["display_name"], second_user["images"][0]["url"]])
 
 headers = ["id","display_name","image_url"]
-first_user_info = "first_user_info.csv"
-second_user_info = "second_user_info.csv"
+first_user_info = "user_info_1.csv"
+second_user_info = "user_info_2.csv"
 
 with open(first_user_info, 'w', encoding="utf-8", newline='') as csvfile: 
     csvwriter = csv.writer(csvfile) 

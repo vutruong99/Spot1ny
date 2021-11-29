@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+bs4==0.0.1
+certifi==2021.10.8
+charset-normalizer==2.0.7
+idna==3.3
+lyricsgenius==3.0.1
+requests==2.26.0
+six==1.16.0
+soupsieve==2.3.1
+spotipy==2.19.0
+urllib3==1.26.7

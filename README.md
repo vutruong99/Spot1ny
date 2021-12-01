@@ -2,7 +2,7 @@
 
 ![alt text](https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1165/msfgxy64htxbaki9up4e.png)
 
-Spot1ny is a part of my plan to build a system to match people based on their data. Spot1ny compares the Spotify playlists of two users to see if their music tastes match. Also, I am developing a recommender system based on genres, audio features and lyrics. 
+Spot1ny (Spot one n.y) is a part of my plan to build a system to match people based on their data. Spot1ny compares the Spotify playlists of two users to see if their music tastes match. Also, I am developing a recommender system based on genres, audio features and lyrics. 
 
 Libraries used:
 * Spotipy

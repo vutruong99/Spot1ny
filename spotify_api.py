@@ -34,6 +34,8 @@ def spotify_user_info_scraper():
         csvwriter = csv.writer(csvfile) 
         csvwriter.writerow(headers) 
         csvwriter.writerows(second_user_data)
+    
+    retrieve_avatars()
 
 def spotify_playlists_scraper(mode):
     
@@ -242,3 +244,16 @@ def billboard_to_spotify_id():
         csvwriter = csv.writer(csvfile) 
         csvwriter.writerow(headers) 
         csvwriter.writerows(billboard_100_ids)
+
+def retrieve_avatars():
+    with open("data/user_info_1.csv", encoding="utf-8-sig") as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            urllib.request.urlretrieve(row[2], "user1_avatar.jpg")
+        
+    with open("data/user_info_2.csv", encoding="utf-8-sig") as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            urllib.request.urlretrieve(row[2], "user2_avatar.jpg")

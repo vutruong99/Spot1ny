@@ -13,11 +13,14 @@ Libraries used:
 * BeautifulSoup
 * LyricsGenius
 * Plotly
+* Pillow
+
 
 ## Working on:
 * Data analysis and visualization
 * Recommendation sysstem based on audio features, genres, lyrics
 * How to crawl lyrics effectively and correctly (for not so popular songs without lyrics)
+* Summary of data using Pillow (Similar to Spotify Wrapped)
 
 ## Usage:
 * Create an application on [Spotify Devloper Dashboard](https://developer.spotify.com/dashboard/login)

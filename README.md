@@ -23,17 +23,10 @@ Libraries used:
 * Create an application on [Spotify Devloper Dashboard](https://developer.spotify.com/dashboard/login)
 * Get Client ID, Client Secret and Redirect URI
 * Replace those credentials in the blanks in the two Python files
-* Run the crawlers to spawn csv files:
-```bash
-python scraper.py
-```
+* Run the crawlers to spawn csv files and analyze the data:
 
 ```bash
-python user_info_api.py
+python main.py
 ```
 
-```bash
-python lyrics_scraper.py
-```
-
-* Run the notebook in Jupyter Notebook or other kernels
+* Or run the notebook in Jupyter Notebook or other kernels to see step by step analysis

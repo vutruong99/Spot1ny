@@ -1,6 +1,6 @@
 # Spot1ny
 
-![alt text](https://github.com/vutruong99/Spot1ny/blob/master/images/result.png?raw=true)
+![alt text](https://github.com/vutruong99/Spot1ny/blob/master/images/3.png?raw=true)
 
 Spot1ny (Spot one en why) is a part of my plan to build a system to match people based on their data. Spot1ny compares the Spotify playlists of two users to see if their music tastes match. Also, I am developing a recommender system based on genres, audio features and lyrics. 
 

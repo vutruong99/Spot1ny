@@ -20,7 +20,7 @@ Libraries used:
 * Data analysis and visualization
 * Recommendation sysstem based on audio features, genres, lyrics
 * How to crawl lyrics effectively and correctly (for not so popular songs without lyrics)
-* Summary of data using Pillow (Similar to Spotify Wrapped)
+* Summary of data using Pillow (Similar to Spotify Wrapped) - Color Palettes From Spotify Wrapped 2018
 
 ## Usage:
 * Create an application on [Spotify Devloper Dashboard](https://developer.spotify.com/dashboard/login)

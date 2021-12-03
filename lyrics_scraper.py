@@ -67,8 +67,8 @@ for i,lyrics in enumerate(lyrics_list_1):
 for i,lyrics in enumerate(lyrics_list_2):
     ids_lyrics_2[i].append(lyrics)
 
-lyrics_1_file = "lyrics_1.csv"
-lyrics_2_file = "lyrics_2.csv"
+lyrics_1_file = "data/lyrics_1.csv"
+lyrics_2_file = "data/lyrics_2.csv"
 
 headers = ["id","lyrics"]
 

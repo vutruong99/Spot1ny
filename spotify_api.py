@@ -1,6 +1,7 @@
 import spotipy
 import csv
 from spotipy.oauth2 import SpotifyOAuth
+import urllib.request
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="",
                                                     client_secret="",

@@ -4,7 +4,11 @@ from itertools import islice
 import seaborn as sns
 from sklearn.neighbors import NearestNeighbors
 import warnings
+import csv
+
 warnings.filterwarnings("ignore")
+
+stats = []
 
 def populate_dataframe(): 
     # Read data into dataframes
@@ -17,9 +21,10 @@ def populate_dataframe():
     # Names df
     user_info_df_1 = pd.read_csv("data/user_info_1.csv", encoding= "utf-8-sig")
     user_info_df_2 = pd.read_csv("data/user_info_2.csv", encoding= "utf-8-sig")
+
     user1 = str(user_info_df_1["display_name"][0])
     user2 = str(user_info_df_2["display_name"][0]) 
-
+    
     # Audio features df
     audio_features_df_1 = pd.read_csv("data/audio_features_1.csv", encoding= "utf-8-sig")
     audio_features_df_2 = pd.read_csv("data/audio_features_2.csv", encoding= "utf-8-sig")
@@ -55,6 +60,7 @@ def generateDictionary(dataframe, column):
 def plot(genres_dictionary, user_dataframe, feature):
     user_genres_dict = genres_dictionary
     username = user_dataframe["display_name"][0]
+    
     def take(n, iterable):
         return dict(islice(iterable, n))
 
@@ -115,6 +121,7 @@ def popularityAnalysis(first_dataframe, user_info_df_1, second_dataframe, user_i
     print(max_first_pop["song"] + " by " + max_first_pop["artist"] + " with popularity " + str(max_first_pop["popularity"]))
     print(min_first_pop["song"] + " by " + min_first_pop["artist"] + " with popularity " + str(min_first_pop["popularity"]))
     print()
+
     max_second_pop = second_dataframe.sort_values(by=["popularity"]).iloc[-1]
     min_second_pop = second_dataframe.sort_values(by=["popularity"]).iloc[0]
     
@@ -123,6 +130,7 @@ def popularityAnalysis(first_dataframe, user_info_df_1, second_dataframe, user_i
     print(min_second_pop["song"] + " by " + min_second_pop["artist"] + " with popularity " + str(min_second_pop["popularity"]))
     print()
 
+    return [max_first_pop["song"], min_first_pop["song"], max_second_pop["song"], min_second_pop["song"]]
 def similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, feature):
     if feature == "song":
         feature = "id"
@@ -172,9 +180,9 @@ def individual_similarity(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2
             item = item.replace("[","").replace("]","").replace("'","").split(", ")
             for genre in item:
                 u2_set.add(genre)
-
-        per1 = len(set(u1_set) & set(u2_set))/len(u2_set)
-        per2 = len(set(u1_set) & set(u2_set))/len(u1_set)
+ 
+        per1 = (len(set(u1_set) & set(u2_set))/len(u2_set))*100
+        per2 = (len(set(u1_set) & set(u2_set))/len(u1_set))*100
 
         print("Individual " + feature + " match")
         print(user1 + " matches " + str(per1) + " % with " + user2)
@@ -185,8 +193,8 @@ def individual_similarity(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2
         u2 = songs_df_2[feature]
         u1.drop_duplicates(keep = "first", inplace = True)
         u2.drop_duplicates(keep = "first", inplace = True)
-        per1 = len(pd.merge(u1, u2, how = "inner").index)/len(u2)
-        per2 = len(pd.merge(u1, u2, how = "inner").index)/len(u1)
+        per1 = len(pd.merge(u1, u2, how = "inner").index)/len(u2) * 100
+        per2 = len(pd.merge(u1, u2, how = "inner").index)/len(u1) * 100
         print("Individual " + feature + " match")
         print(user1 + " matches " + str(per1) + " % with " + user2)
         print(user2 + " matches " + str(per2) + " % with " + user1)
@@ -204,15 +212,17 @@ def kNearestNeighbours():
     knn = NearestNeighbors(n_neighbors=11)
     knn.fit(X_np)
     NearestNeighbors(algorithm='auto', n_neighbors=11, p=2,radius=1.0)
-    res = knn.kneighbors([X_2_np[0]], return_distance=False)
+    res = knn.kneighbors([X_2_np[0]], return_distance=True)
+    print("Vectors' distances and indexes")
+    print(res)
+    print()
     ids = []
-    for r in res[0]:
+    for r in res[1][0]:
         ids.append(audio_features_df_1.iloc[r]["id"])
 
     print("Recommendations for " + test_song_name + " are")
     for idz in ids:
-        print(songs_df_1[songs_df_1['id'] == idz])
-
+        print(songs_df_1[songs_df_1['id'] == idz]["song"].to_string())
 
 def billboard_comparision():
   
@@ -228,6 +238,9 @@ def billboard_comparision():
 
 def data_analysis():
     populate_dataframe()
+    statistics_2 = []
+    statistics_1 = []
+
     # Drop duplicate records
     songs_df_1.drop_duplicates(subset = ["id"], keep = "first", inplace = True)
     songs_df_2.drop_duplicates(subset = ["id"], keep = "first", inplace = True)
@@ -276,6 +289,9 @@ def data_analysis():
     songs_df_1["duration"] = (songs_df_1["duration"] * 0.001 / 60).round(2)
     songs_df_2["duration"] = (songs_df_2["duration"] * 0.001 / 60).round(2)
 
+    total_songs_durations_1 = songs_df_1["duration"].sum()
+    total_songs_durations_2 = songs_df_2["duration"].sum()
+
     avg_songs_durations_1 = songs_df_1["duration"].mean().round(2)
     avg_songs_durations_2 = songs_df_2["duration"].mean().round(2)
 
@@ -294,6 +310,10 @@ def data_analysis():
     # plt.show()
 
     # Songs' popularity
+
+    total_songs_popularity_1 = songs_df_1["popularity"].sum()
+    total_songs_popularity_2 = songs_df_2["popularity"].sum()
+
     avg_songs_popularity_1 = songs_df_1["popularity"].mean().round(2)
     avg_songs_popularity_2 = songs_df_2["popularity"].mean().round(2)
 
@@ -309,6 +329,8 @@ def data_analysis():
     plt.savefig('visualizations/avg_songs_popularity.png', dpi=300, bbox_inches='tight')
     plt.clf()
     # plt.show()
+
+    popularityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2)
 
     # Unique genres
     u1 = songs_df_1["genres"].to_numpy()
@@ -369,9 +391,6 @@ def data_analysis():
     featureAnalysis(first_user_artists_dict, second_user_artists_dict, "artists")
     featureAnalysis(first_user_albums_dict, second_user_albums_dict, "albums")
 
-    popularityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2)
-
-
     print("Songs similarity",similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "song"),"%")
     print("Aritsts similarity", similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "artist"), "%")
     print("Albums similarity", similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "album"), "%")
@@ -387,3 +406,22 @@ def data_analysis():
     print()
 
     kNearestNeighbours()
+
+    statistics_1.append([user1, n_unique_songs_1, n_unique_artists_1, n_unique_albums_1, n_unique_genres_1, 
+    total_songs_popularity_1, total_songs_durations_1, avg_songs_popularity_1, avg_songs_durations_1])
+
+    statistics_2.append([user2, n_unique_songs_2, n_unique_artists_2, n_unique_albums_2, n_unique_genres_2, 
+    total_songs_popularity_2, total_songs_durations_2, avg_songs_popularity_2, avg_songs_durations_2])
+         
+    headers = ["username","songs","artists","albums","genres","total_pop","total_dur","avg_dur","avg_pop"]
+        # "avg_dur", "top_songs", "top_artists", "top_albums", "top_genres","most_pop_song", 
+        # "least_pop_song", "longest_song","shortest_song"]
+
+    result_file = "data/results.csv"
+
+    with open(result_file, 'w', encoding="utf-8", newline='') as csvfile: 
+        csvwriter = csv.writer(csvfile) 
+        csvwriter.writerow(headers) 
+        csvwriter.writerows(statistics_1)
+        csvwriter.writerows(statistics_2)
+        

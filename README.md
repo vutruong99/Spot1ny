@@ -19,20 +19,22 @@ Libraries used:
 * Pillow
 
 
-## Working on:
+## Working on
 * Data analysis and visualization
 * Recommendation sysstem based on audio features, genres, lyrics
 * How to crawl lyrics effectively and correctly (for not so popular songs without lyrics)
 * Summary of data using Pillow (Similar to Spotify Wrapped) - Color Palettes From Spotify Wrapped 2018
 
-## Usage:
+## Installation and usage
 * Create an application on [Spotify Devloper Dashboard](https://developer.spotify.com/dashboard/login)
 * Get Client ID, Client Secret and Redirect URI
-* Replace those credentials in the blanks in the two Python files
-* Run the crawlers to spawn csv files and analyze the data:
-
+* Replace those credentials in the blanks spotify_api.py
+* Run the requirements.txt file with:
+```bash
+pip install -r requirements.txt
+```
+* Run the main Python file to spawn csv files and analyze the data:
 ```bash
 python main.py
 ```
-
 * Or run the notebook in Jupyter Notebook or other kernels to see step by step analysis

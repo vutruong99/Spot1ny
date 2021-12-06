@@ -5,10 +5,13 @@ import seaborn as sns
 from sklearn.neighbors import NearestNeighbors
 import warnings
 import csv
+import itertools
 
 warnings.filterwarnings("ignore")
 
 stats = []
+ind_stats_1 = dict()
+ind_stats_2 = dict()
 
 def populate_dataframe(): 
     # Read data into dataframes
@@ -68,17 +71,21 @@ def plot(genres_dictionary, user_dataframe, feature):
                                                              reverse = True, key=lambda item: item[1])}
     top_10_user_genres = take(10, sorted_user_genres.items())
 
+    top_5_user_genres = take(5, sorted_user_genres.items())
+
     p = sns.barplot(x = list(top_10_user_genres.values()), y = list(top_10_user_genres.keys()), orient = "h")
     p.set_xlabel("Count", fontsize = 15)
     p.set_title(username + "'s top " + feature, fontsize = 20)
-    
+
     plt.savefig("visualizations/" + username + "'s top " + feature + ".png", bbox_inches='tight')
     plt.clf()
+
+    return list(top_5_user_genres.keys())
 
 def featureAnalysis(first_user_dict, second_user_dict, feature):
     first_user_feature = first_user_dict
     second_user_feature = second_user_dict
-    
+    res = []
     common_features = dict()
     for key in first_user_feature:
         if key in second_user_feature:
@@ -96,6 +103,7 @@ def featureAnalysis(first_user_dict, second_user_dict, feature):
             if feature == "songs":
                 song = songs_df_1.loc[songs_df_1["id"]==key].values[0]
                 print(song[1] + " by " + song[2] + " in " + song[3])
+                res.append(song[1])
             else:
                 print(key, sorted_common_features[key])
                 keys.append(key)
@@ -105,10 +113,14 @@ def featureAnalysis(first_user_dict, second_user_dict, feature):
                 p.set_title("Common "  + feature, fontsize = 20)
                 plt.savefig("visualizations/" + "Common "  + feature + ".png", bbox_inches='tight')
                 plt.clf()
+                res.append(key)
         print()
+        return res
+        
     else:
         print("No common " + feature)
         print()
+        return []
 
 def popularityAnalysis(first_dataframe, user_info_df_1, second_dataframe, user_info_df_2):
     print(user_info_df_1["display_name"][0] + "'s average songs' popularity is", first_dataframe["popularity"].mean())
@@ -131,6 +143,7 @@ def popularityAnalysis(first_dataframe, user_info_df_1, second_dataframe, user_i
     print()
 
     return [max_first_pop["song"], min_first_pop["song"], max_second_pop["song"], min_second_pop["song"]]
+
 def similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, feature):
     if feature == "song":
         feature = "id"
@@ -149,14 +162,14 @@ def similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, f
             for genre in item:
                 u2_set.add(genre)
                 
-        similarity = len(set(u1_set) & set(u2_set))/len(set(u1_set) | set(u2_set))*100
+        similarity = round(len(set(u1_set) & set(u2_set))/len(set(u1_set) | set(u2_set))*100,2)
     
     else:
         u1 = songs_df_1[feature]
         u2 = songs_df_2[feature]
         u1.drop_duplicates(keep = "first", inplace = True)
         u2.drop_duplicates(keep = "first", inplace = True)
-        similarity = len(pd.merge(u1, u2, how = "inner").index)/len(pd.merge(u1, u2, how = "outer").index)*100
+        similarity = round(len(pd.merge(u1, u2, how = "inner").index)/len(pd.merge(u1, u2, how = "outer").index)*100,2)
 
     return similarity
 
@@ -181,8 +194,8 @@ def individual_similarity(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2
             for genre in item:
                 u2_set.add(genre)
  
-        per1 = (len(set(u1_set) & set(u2_set))/len(u2_set))*100
-        per2 = (len(set(u1_set) & set(u2_set))/len(u1_set))*100
+        per1 = round((len(set(u1_set) & set(u2_set))/len(u2_set))*100,2)
+        per2 = round((len(set(u1_set) & set(u2_set))/len(u1_set))*100,2)
 
         print("Individual " + feature + " match")
         print(user1 + " matches " + str(per1) + " % with " + user2)
@@ -193,8 +206,8 @@ def individual_similarity(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2
         u2 = songs_df_2[feature]
         u1.drop_duplicates(keep = "first", inplace = True)
         u2.drop_duplicates(keep = "first", inplace = True)
-        per1 = len(pd.merge(u1, u2, how = "inner").index)/len(u2) * 100
-        per2 = len(pd.merge(u1, u2, how = "inner").index)/len(u1) * 100
+        per1 = round(len(pd.merge(u1, u2, how = "inner").index)/len(u2) * 100,2)
+        per2 = round(len(pd.merge(u1, u2, how = "inner").index)/len(u1) * 100,2)
         print("Individual " + feature + " match")
         print(user1 + " matches " + str(per1) + " % with " + user2)
         print(user2 + " matches " + str(per2) + " % with " + user1)
@@ -234,6 +247,9 @@ def billboard_comparision():
 
     print(user1 + " has " + str(len(pd.merge(u1,billboard_100_df["id"]))) + " song(s) that are in Billboard Hot 100")
     print(user2 + " has " + str(len(pd.merge(u2,billboard_100_df["id"]))) + " song(s) that are in Billboard Hot 100")
+    
+    if (len(pd.merge(u1,billboard_100_df["id"])) > 0):
+        print(pd.merge(u1,billboard_100_df["id"]))
     print()
 
 def data_analysis():
@@ -330,7 +346,7 @@ def data_analysis():
     plt.clf()
     # plt.show()
 
-    popularityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2)
+    pop_songs = popularityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2)
 
     # Unique genres
     u1 = songs_df_1["genres"].to_numpy()
@@ -377,25 +393,30 @@ def data_analysis():
     first_user_albums_dict = generateDictionary(songs_df_1, "album")
     second_user_albums_dict = generateDictionary(songs_df_2, "album")
 
-    plot(first_user_genres_dict, user_info_df_1, "genres")
-    plot(second_user_genres_dict, user_info_df_2, "genres")
+    top_genres_1 = plot(first_user_genres_dict, user_info_df_1, "genres")
+    top_genres_2 = plot(second_user_genres_dict, user_info_df_2, "genres")
 
-    plot(first_user_artists_dict, user_info_df_1, "artists")
-    plot(second_user_artists_dict, user_info_df_2, "artists")
+    top_artists_1 = plot(first_user_artists_dict, user_info_df_1, "artists")
+    top_artists_2 = plot(second_user_artists_dict, user_info_df_2, "artists")
 
-    plot(first_user_albums_dict, user_info_df_1, "album")
-    plot(second_user_albums_dict, user_info_df_2, "album")
+    top_albums_1 = plot(first_user_albums_dict, user_info_df_1, "album")
+    top_albums_2 = plot(second_user_albums_dict, user_info_df_2, "album")
 
-    featureAnalysis(first_user_songs_dict, second_user_songs_dict, "songs")
-    featureAnalysis(first_user_genres_dict, second_user_genres_dict, "genres")
-    featureAnalysis(first_user_artists_dict, second_user_artists_dict, "artists")
-    featureAnalysis(first_user_albums_dict, second_user_albums_dict, "albums")
+    common_songs = featureAnalysis(first_user_songs_dict, second_user_songs_dict, "songs")
+    common_genres = featureAnalysis(first_user_genres_dict, second_user_genres_dict, "genres")
+    common_artists = featureAnalysis(first_user_artists_dict, second_user_artists_dict, "artists")
+    common_albums =  featureAnalysis(first_user_albums_dict, second_user_albums_dict, "albums")
 
-    print("Songs similarity",similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "song"),"%")
-    print("Aritsts similarity", similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "artist"), "%")
-    print("Albums similarity", similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "album"), "%")
+    com_per_songs = similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "song")
+    com_per_artists = similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "artist")
+    com_per_albums = similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "album")
+    com_per_genres = similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "genres")
+
+    print("Songs similarity",com_per_songs,"%")
+    print("Aritsts similarity", com_per_artists, "%")
+    print("Albums similarity", com_per_albums, "%")
     print("Popularity similarity", similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "popularity"), '%')
-    print("Genres similiarity", similarityAnalysis(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "genres"), "%")
+    print("Genres similiarity", com_per_genres, "%")
     print()
 
     individual_similarity(songs_df_1, user_info_df_1, songs_df_2, user_info_df_2, "song")
@@ -408,20 +429,31 @@ def data_analysis():
     kNearestNeighbours()
 
     statistics_1.append([user1, n_unique_songs_1, n_unique_artists_1, n_unique_albums_1, n_unique_genres_1, 
-    total_songs_popularity_1, total_songs_durations_1, avg_songs_popularity_1, avg_songs_durations_1])
+    total_songs_popularity_1, total_songs_durations_1, avg_songs_popularity_1, avg_songs_durations_1,
+    top_artists_1, top_albums_1, top_genres_1, pop_songs[0]])
 
     statistics_2.append([user2, n_unique_songs_2, n_unique_artists_2, n_unique_albums_2, n_unique_genres_2, 
-    total_songs_popularity_2, total_songs_durations_2, avg_songs_popularity_2, avg_songs_durations_2])
+    total_songs_popularity_2, total_songs_durations_2, avg_songs_popularity_2, avg_songs_durations_2, 
+    top_artists_2, top_albums_2, top_genres_2, pop_songs[2]])
          
-    headers = ["username","songs","artists","albums","genres","total_pop","total_dur","avg_dur","avg_pop"]
-        # "avg_dur", "top_songs", "top_artists", "top_albums", "top_genres","most_pop_song", 
-        # "least_pop_song", "longest_song","shortest_song"]
+    headers = ["username","songs","artists","albums","genres","total_pop","total_dur","avg_dur","avg_pop"
+         "top_artists", "top_albums", "top_genres","most_pop_song"]
 
+    headers_2 = ["common_songs", "common_artists","common_albums","common_genres","%_songs","%_artists","%_albums","%_genres"]
     result_file = "data/results.csv"
+    common_file = "data/commons.csv"    
+
+    common_results = list(itertools.zip_longest(common_songs, common_artists, common_albums, common_genres, 
+        [com_per_songs], [com_per_artists], [com_per_albums], [com_per_genres]))
+
+ 
+    with open(common_file, 'w', encoding="utf-8", newline='') as csvfile: 
+        csvwriter = csv.writer(csvfile) 
+        csvwriter.writerow(headers_2) 
+        csvwriter.writerows(common_results)
 
     with open(result_file, 'w', encoding="utf-8", newline='') as csvfile: 
         csvwriter = csv.writer(csvfile) 
         csvwriter.writerow(headers) 
         csvwriter.writerows(statistics_1)
         csvwriter.writerows(statistics_2)
-        

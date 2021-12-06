@@ -1,3 +1,3 @@
-username,songs,artists,albums,genres,total_pop,total_dur,avg_dur,avg_pop
-Vũ,124,95,111,113,7215,506.73,58.19,4.09
-Tran Dinh Vu,119,99,112,143,4798,443.38,40.32,3.73
+username,songs,artists,albums,genres,total_pop,total_dur,avg_dur,avg_poptop_artists,top_albums,top_genres,most_pop_song
+Vũ,132,97,117,114,7909,547.3399999999999,59.92,4.15,"['Avenged Sevenfold', 'Paramore', 'Eminem', 'Radiohead', 'BIGBANG']","['Avenged Sevenfold', 'WE WANT', 'SOUR', 'Habits', 'Dreaming Out Loud']","['pop', 'v-pop', 'dance pop', 'rock', 'post-teen pop']",Easy On Me
+Tran Dinh Vu,92,84,90,128,3686,332.72,40.07,3.62,"['Ginger Root', 'Syd Matters', 'Hether', 'Cage The Elephant', ""Her's""]","['Someday We Will Foresee Obstacles', 'Underwater Pipe Dreams', 'Carrie & Lowell', 'Goes Down Under', 'Looking Out for You']","['indie pop', 'indie garage rock', 'indie rock', 'neo-psychedelic', 'modern rock']",Looking Out for You

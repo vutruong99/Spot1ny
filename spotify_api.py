@@ -3,14 +3,16 @@ import csv
 from spotipy.oauth2 import SpotifyOAuth
 import urllib.request
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="",
-                                                    client_secret="",
-                                                    redirect_uri="",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="70d38d6792fd47338dcb482fc2aba603",
+                                                    client_secret="0920bf226b40474bb49c1aca271b6de5",
+                                                    redirect_uri="http://localhost:8888/callback",
                                                     scope="user-library-read"))
 
  
 first_user_id = "lwqh6n22yf8j1esekvl1dghpj"
 second_user_id = "hc7cn89l7knx2wknggi5g6c8j"
+# first_user_id = "22b6thxi5ucw3wzjsw3hihhiy"
+# second_user_id = "ouhb2zru9tnwe0ncyvuyrq3s8"
 
 def spotify_user_info_scraper():
 
@@ -35,7 +37,7 @@ def spotify_user_info_scraper():
         csvwriter = csv.writer(csvfile) 
         csvwriter.writerow(headers) 
         csvwriter.writerows(second_user_data)
-    
+
     retrieve_avatars()
 
 def spotify_playlists_scraper(mode):
@@ -251,10 +253,10 @@ def retrieve_avatars():
         reader = csv.reader(f)
         next(reader, None)
         for row in reader:
-            urllib.request.urlretrieve(row[2], "user1_avatar.jpg")
+            urllib.request.urlretrieve(row[2], "images/user1_avatar.jpg")
         
     with open("data/user_info_2.csv", encoding="utf-8-sig") as f:
         reader = csv.reader(f)
         next(reader, None)
         for row in reader:
-            urllib.request.urlretrieve(row[2], "user2_avatar.jpg")
+            urllib.request.urlretrieve(row[2], "images/user2_avatar.jpg")

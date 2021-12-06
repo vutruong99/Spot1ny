@@ -3,9 +3,9 @@ import csv
 from spotipy.oauth2 import SpotifyOAuth
 import urllib.request
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="70d38d6792fd47338dcb482fc2aba603",
-                                                    client_secret="0920bf226b40474bb49c1aca271b6de5",
-                                                    redirect_uri="http://localhost:8888/callback",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="",
+                                                    client_secret="",
+                                                    redirect_uri="",
                                                     scope="user-library-read"))
 
  
